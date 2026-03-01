@@ -149,14 +149,15 @@ export default function Home() {
                 {/* ▼ MANUAL ADJUST: change the style width below to resize.
                      Try: 500px | 550px | 600px | 650px | 700px | 750px | 800px
                      The height auto-scales to maintain aspect ratio. */}
-                <Image
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
                   src={`${BASE_PATH}/Statue_lady.png`}
                   alt="Lady Justice - Symbol of Constitutional Law"
                   width={1200}
                   height={1500}
                   className="object-contain"
                   style={{
-                    marginTop: '-100px', // Adjust vertical position (negative moves up)
+                    marginTop: '-100px',
                     width: '900px',
                     height: 'auto',
                     filter: 'drop-shadow(0 24px 64px rgba(14,26,43,0.25)) drop-shadow(0 8px 24px rgba(14,26,43,0.15))',
@@ -164,7 +165,6 @@ export default function Home() {
                     WebkitMaskImage: 'linear-gradient(to right, transparent 0%, black 8%, black 75%, transparent 98%)',
                     maskComposite: 'intersect',
                   }}
-                  priority
                 />
               </div>
 
