@@ -150,7 +150,7 @@ export default function Home() {
                      Try: 500px | 550px | 600px | 650px | 700px | 750px | 800px
                      The height auto-scales to maintain aspect ratio. */}
                 <Image
-                  src="/Statue_lady.png" 
+                  src={`${BASE_PATH}/Statue_lady.png`}
                   alt="Lady Justice - Symbol of Constitutional Law"
                   width={1200}
                   height={1500}
