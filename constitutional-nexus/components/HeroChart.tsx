@@ -11,6 +11,7 @@ import {
   ResponsiveContainer,
 } from 'recharts';
 import { useLanguage } from '@/context/LanguageContext';
+import { BASE_PATH } from '@/utils/dataService';
 
 interface PartData {
   name: string;
@@ -22,7 +23,7 @@ export default function HeroChart() {
   const { t, language } = useLanguage();
 
   useEffect(() => {
-    fetch('/data/parts.json')
+    fetch(`${BASE_PATH}/data/parts.json`)
       .then((res) => res.json())
       .then((parts: { number: string; title: string; article_count: number }[]) => {
         const sorted = [...parts]

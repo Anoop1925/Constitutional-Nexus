@@ -2,21 +2,24 @@
 
 import { Article, Part, Category, SearchIndex, ConstitutionData } from '@/types';
 
+export const BASE_PATH = process.env.NODE_ENV === 'production' ? '/Constitutional-Nexus' : '';
+
 export class DataService {
   private static cache: Map<string, any> = new Map();
 
   static async fetchJSON<T>(path: string): Promise<T> {
-    if (this.cache.has(path)) {
-      return this.cache.get(path);
+    const fullPath = `${BASE_PATH}${path}`;
+    if (this.cache.has(fullPath)) {
+      return this.cache.get(fullPath);
     }
 
-    const response = await fetch(path);
+    const response = await fetch(fullPath);
     if (!response.ok) {
-      throw new Error(`Failed to fetch ${path}`);
+      throw new Error(`Failed to fetch ${fullPath}`);
     }
     
     const data = await response.json();
-    this.cache.set(path, data);
+    this.cache.set(fullPath, data);
     return data;
   }
 

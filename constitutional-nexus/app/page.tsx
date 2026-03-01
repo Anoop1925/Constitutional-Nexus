@@ -11,6 +11,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { HiLightningBolt, HiSearch, HiChartBar, HiBookOpen, HiDocumentText, HiCollection, HiScale } from 'react-icons/hi';
 import { useLanguage } from '@/context/LanguageContext';
+import { BASE_PATH } from '@/utils/dataService';
 
 export default function Home() {
   const [articles, setArticles] = useState<Article[]>([]);
@@ -39,7 +40,7 @@ export default function Home() {
   };
 
   const handleSearch = (query: string) => {
-    window.location.href = `/explorer?q=${encodeURIComponent(query)}`;
+    window.location.href = `${BASE_PATH}/explorer?q=${encodeURIComponent(query)}`;
   };
 
   return (
