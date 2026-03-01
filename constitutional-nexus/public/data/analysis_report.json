@@ -1,0 +1,1791 @@
+{
+  "schema": {
+    "Part": {
+      "type": "object",
+      "non_null": 488,
+      "null_count": 0,
+      "unique_values": 26,
+      "sample_values": [
+        "PART 1: THE UNION AND ITS TERRITORY",
+        "PART 1: THE UNION AND ITS TERRITORY",
+        "PART 1: THE UNION AND ITS TERRITORY"
+      ]
+    },
+    "Chapter": {
+      "type": "object",
+      "non_null": 286,
+      "null_count": 202,
+      "unique_values": 23,
+      "sample_values": [
+        "CHAPTER 1-THE EXECUTIVE",
+        "CHAPTER 1-THE EXECUTIVE",
+        "CHAPTER 1-THE EXECUTIVE"
+      ]
+    },
+    "Article": {
+      "type": "object",
+      "non_null": 488,
+      "null_count": 0,
+      "unique_values": 485,
+      "sample_values": [
+        "Article 1",
+        "Article 2",
+        "Article 2A"
+      ]
+    },
+    "Provision": {
+      "type": "object",
+      "non_null": 488,
+      "null_count": 0,
+      "unique_values": 429,
+      "sample_values": [
+        "Name and territory of the Union.",
+        "Admission or establishment of new States.",
+        "[Omitted.]"
+      ]
+    }
+  },
+  "parts": {
+    "total": 26,
+    "list": [
+      "PART 1: THE UNION AND ITS TERRITORY",
+      "PART 2: CITIZENSHIP",
+      "PART 3: FUNDAMENTAL RIGHTS",
+      "PART 4: DIRECTIVE PRINCIPLES OF STATE POLICY",
+      "PART 4A: FUNDAMENTAL DUTIES",
+      "PART 5: THE UNION",
+      "PART 6: THE STATES",
+      "PART 7: THE STATES IN PART B OF THE FIRST SCHEDULE",
+      "PART 8: THE UNION TERRITORIES",
+      "PART 9: THE PANCHAYATS",
+      "PART 9A: THE MUNICIPALITIES",
+      "PART 9B: THE CO-OPERATIVE SOCIETIES",
+      "PART 10: THE SCHEDULED AND TRIBAL AREAS",
+      "PART 11: RELATIONS BETWEEN THE UNION AND THE STATES",
+      "PART 12: FINANCE, PROPERTY, CONTRACTS AND SUITS",
+      "PART 13: TRADE, COMMERCE AND INTERCOURSE WITHIN THE TERRITORY OF INDIA",
+      "PART 14: SERVICES UNDER THE UNION AND THE STATES",
+      "PART 14A: TRIBUNALS",
+      "PART 15: ELECTIONS",
+      "PART 16: SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+      "PART 17: OFFICIAL LANGUAGE",
+      "PART 18: EMERGENCY PROVISIONS",
+      "PART 19: MISCELLANEOUS",
+      "PART 20: AMENDMENT OF THE CONSTITUTION",
+      "PART 21: TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS",
+      "PART 22: SHORT TITLE, COMMENCEMENT, AUTHORITATIVE TEXT IN HINDI AND REPEALS"
+    ],
+    "distribution": {
+      "PART 5: THE UNION": 107,
+      "PART 6: THE STATES": 90,
+      "PART 12: FINANCE, PROPERTY, CONTRACTS AND SUITS": 40,
+      "PART 3: FUNDAMENTAL RIGHTS": 30,
+      "PART 21: TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS": 24,
+      "PART 11: RELATIONS BETWEEN THE UNION AND THE STATES": 21,
+      "PART 4: DIRECTIVE PRINCIPLES OF STATE POLICY": 20,
+      "PART 9A: THE MUNICIPALITIES": 18,
+      "PART 14: SERVICES UNDER THE UNION AND THE STATES": 17,
+      "PART 9: THE PANCHAYATS": 16,
+      "PART 16: SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES": 16,
+      "PART 9B: THE CO-OPERATIVE SOCIETIES": 13,
+      "PART 17: OFFICIAL LANGUAGE": 11,
+      "PART 19: MISCELLANEOUS": 10,
+      "PART 18: EMERGENCY PROVISIONS": 10,
+      "PART 8: THE UNION TERRITORIES": 8,
+      "PART 13: TRADE, COMMERCE AND INTERCOURSE WITHIN THE TERRITORY OF INDIA": 7,
+      "PART 2: CITIZENSHIP": 7,
+      "PART 15: ELECTIONS": 7,
+      "PART 1: THE UNION AND ITS TERRITORY": 5,
+      "PART 22: SHORT TITLE, COMMENCEMENT, AUTHORITATIVE TEXT IN HINDI AND REPEALS": 4,
+      "PART 10: THE SCHEDULED AND TRIBAL AREAS": 2,
+      "PART 14A: TRIBUNALS": 2,
+      "PART 4A: FUNDAMENTAL DUTIES": 1,
+      "PART 7: THE STATES IN PART B OF THE FIRST SCHEDULE": 1,
+      "PART 20: AMENDMENT OF THE CONSTITUTION": 1
+    }
+  },
+  "articles": {
+    "total": 488,
+    "omitted": 0,
+    "special": [
+      "2A",
+      "21A",
+      "31A",
+      "31B",
+      "31C",
+      "31D",
+      "32A",
+      "39A",
+      "43A",
+      "43B",
+      "48A",
+      "51A",
+      "124A",
+      "124B",
+      "124C",
+      "131A",
+      "134A",
+      "139A",
+      "144A",
+      "224A",
+      "226A",
+      "228A",
+      "239A",
+      "239AA",
+      "239AB",
+      "239B",
+      "243A",
+      "243B",
+      "243C",
+      "243D",
+      "243E",
+      "243F",
+      "243G",
+      "243H",
+      "243I",
+      "243J",
+      "243K",
+      "243L",
+      "243M",
+      "243N",
+      "243O",
+      "243P",
+      "243Q",
+      "243R",
+      "243S",
+      "243T",
+      "243U",
+      "243V",
+      "243W",
+      "243X",
+      "243Y",
+      "243Z",
+      "243ZA",
+      "243ZB",
+      "243ZC",
+      "243ZD",
+      "243ZE",
+      "243ZF",
+      "243ZG",
+      "243ZH",
+      "243ZI",
+      "243ZJ",
+      "243ZK",
+      "243ZL",
+      "243ZM",
+      "243ZN",
+      "243ZO",
+      "243ZP",
+      "243ZQ",
+      "243ZR",
+      "243ZS",
+      "243ZT",
+      "244A",
+      "257A",
+      "258A",
+      "268A",
+      "290A",
+      "300A",
+      "312A",
+      "323A",
+      "323B",
+      "329A",
+      "338A",
+      "338B",
+      "342A",
+      "350A",
+      "350B",
+      "359A",
+      "361A",
+      "361B",
+      "363A",
+      "371A",
+      "371B",
+      "371C",
+      "371D",
+      "371E",
+      "371F",
+      "371G",
+      "371H",
+      "371I",
+      "371J",
+      "372A",
+      "378A",
+      "394A"
+    ],
+    "duplicates": [
+      "4",
+      "233",
+      "370"
+    ]
+  },
+  "chapters": {
+    "total_with_chapters": 286,
+    "unique_chapters": 23,
+    "chapters_list": [
+      "CHAPTER 1-THE EXECUTIVE",
+      "CHAPTER 2-PARLIAMENT",
+      "CHAPTER-3 LEGISLATIVE POWERS OF THE PRESIDENT",
+      "CHAPTER-4 THE UNION JUDICIARY",
+      "CHAPTER-5: COMPTROLLER AND AUDITOR GENERAL OF INDIA",
+      "CHAPTER-1: GENERAL",
+      "CHAPTER-2: THE EXECUTIVE",
+      "CHAPTER-3: THE STATE LEGISLATURE",
+      "CHAPTER-4: LEGISLATIVE POWER OF THE GOVERNOR",
+      "CHAPTER-5: THE HIGH COURTS IN THE STATES",
+      "CHAPTER-6: SUBORDINATE COURTS",
+      "CHAPTER-1: LEGISLATIVE RELATIONS",
+      "CHAPTER-2: ADMINISTRATIVE RELATIONS",
+      "CHAPTER-1: FINANCE",
+      "CHAPTER-2: BORROWING",
+      "CHAPTER-3: PROPERTY, CONTRACTS, RIGHTS, LIABILITIES,OBLIGATIONS AND SUITS",
+      "CHAPTER-4: RIGHT TO PROPERTY",
+      "CHAPTER-1: SERVICES",
+      "CHAPTER-2: PUBLIC SERVICE COMMISSIONS",
+      "CHAPTER-1: LANGUAGE OF THE UNION",
+      "CHAPTER-2: REGIONAL LANGUAGES",
+      "CHAPTER-3: LANGUAGE OF THE SUPREME COURT, HIGH COURTS, ETC.",
+      "CHAPTER-4: SPECIAL DIRECTIVES"
+    ]
+  },
+  "provisions": {
+    "total": 488,
+    "avg_length": 53.20696721311475,
+    "max_length": 155,
+    "min_length": 8,
+    "keyword_counts": {
+      "right": 21,
+      "freedom": 6,
+      "protection": 9,
+      "power": 53,
+      "duty": 3,
+      "prohibition": 4
+    }
+  },
+  "relationships": {
+    "total": 7,
+    "samples": [
+      {
+        "source": "Article 4",
+        "target": "Article 2",
+        "type": "references"
+      },
+      {
+        "source": "Article 104",
+        "target": "Article 99",
+        "type": "references"
+      },
+      {
+        "source": "Article 193",
+        "target": "Article 188",
+        "type": "references"
+      },
+      {
+        "source": "Article 251",
+        "target": "Article 249",
+        "type": "references"
+      },
+      {
+        "source": "Article 307",
+        "target": "Article 301",
+        "type": "references"
+      },
+      {
+        "source": "Article 357",
+        "target": "Article 356",
+        "type": "references"
+      },
+      {
+        "source": "Article 358",
+        "target": "Article 19",
+        "type": "references"
+      }
+    ]
+  },
+  "categories": {
+    "category_counts": {
+      "General": 289,
+      "Rights": 29,
+      "Prohibitions": 25,
+      "Definitions": 14,
+      "Protections": 10,
+      "Powers": 64,
+      "Provisions": 51,
+      "Duties": 6,
+      "Procedures": 13
+    },
+    "article_categories": {
+      "Article 1": [
+        "General"
+      ],
+      "Article 2": [
+        "General"
+      ],
+      "Article 2A": [
+        "General"
+      ],
+      "Article 3": [
+        "General"
+      ],
+      "Article 4": [
+        "General"
+      ],
+      "Article 5": [
+        "Rights"
+      ],
+      "Article 6": [
+        "Rights"
+      ],
+      "Article 7": [
+        "Rights"
+      ],
+      "Article 8": [
+        "Prohibitions"
+      ],
+      "Article 9": [
+        "Rights"
+      ],
+      "Article 10": [
+        "Rights"
+      ],
+      "Article 12": [
+        "Definitions"
+      ],
+      "Article 13": [
+        "Rights"
+      ],
+      "Article 14": [
+        "Rights"
+      ],
+      "Article 15": [
+        "Prohibitions"
+      ],
+      "Article 16": [
+        "Rights"
+      ],
+      "Article 17": [
+        "General"
+      ],
+      "Article 18": [
+        "General"
+      ],
+      "Article 19": [
+        "Rights",
+        "Protections"
+      ],
+      "Article 20": [
+        "Protections"
+      ],
+      "Article 21": [
+        "Rights",
+        "Protections"
+      ],
+      "Article 21A": [
+        "Rights"
+      ],
+      "Article 22": [
+        "Protections"
+      ],
+      "Article 23": [
+        "Prohibitions"
+      ],
+      "Article 24": [
+        "Prohibitions"
+      ],
+      "Article 25": [
+        "Rights"
+      ],
+      "Article 26": [
+        "Rights"
+      ],
+      "Article 27": [
+        "Rights"
+      ],
+      "Article 28": [
+        "Rights"
+      ],
+      "Article 29": [
+        "Protections"
+      ],
+      "Article 30": [
+        "Rights"
+      ],
+      "Article 31": [
+        "General"
+      ],
+      "Article 31A": [
+        "General"
+      ],
+      "Article 31B": [
+        "General"
+      ],
+      "Article 31C": [
+        "General"
+      ],
+      "Article 31D": [
+        "General"
+      ],
+      "Article 32": [
+        "Rights"
+      ],
+      "Article 32A": [
+        "General"
+      ],
+      "Article 33": [
+        "Rights",
+        "Powers"
+      ],
+      "Article 34": [
+        "Rights"
+      ],
+      "Article 35": [
+        "Provisions"
+      ],
+      "Article 36": [
+        "Definitions"
+      ],
+      "Article 37": [
+        "General"
+      ],
+      "Article 38": [
+        "General"
+      ],
+      "Article 39": [
+        "General"
+      ],
+      "Article 39A": [
+        "General"
+      ],
+      "Article 40": [
+        "General"
+      ],
+      "Article 41": [
+        "Rights"
+      ],
+      "Article 42": [
+        "Provisions"
+      ],
+      "Article 43": [
+        "General"
+      ],
+      "Article 43A": [
+        "General"
+      ],
+      "Article 43B": [
+        "General"
+      ],
+      "Article 44": [
+        "General"
+      ],
+      "Article 45": [
+        "Provisions"
+      ],
+      "Article 46": [
+        "General"
+      ],
+      "Article 47": [
+        "Duties"
+      ],
+      "Article 48": [
+        "General"
+      ],
+      "Article 48A": [
+        "Protections"
+      ],
+      "Article 49": [
+        "Protections"
+      ],
+      "Article 50": [
+        "General"
+      ],
+      "Article 51": [
+        "Protections"
+      ],
+      "Article 51A": [
+        "General"
+      ],
+      "Article 52": [
+        "General"
+      ],
+      "Article 53": [
+        "Powers"
+      ],
+      "Article 54": [
+        "General"
+      ],
+      "Article 55": [
+        "Procedures"
+      ],
+      "Article 56": [
+        "General"
+      ],
+      "Article 57": [
+        "General"
+      ],
+      "Article 58": [
+        "General"
+      ],
+      "Article 59": [
+        "General"
+      ],
+      "Article 60": [
+        "General"
+      ],
+      "Article 61": [
+        "Procedures"
+      ],
+      "Article 62": [
+        "General"
+      ],
+      "Article 63": [
+        "General"
+      ],
+      "Article 64": [
+        "General"
+      ],
+      "Article 65": [
+        "General"
+      ],
+      "Article 66": [
+        "General"
+      ],
+      "Article 67": [
+        "General"
+      ],
+      "Article 68": [
+        "General"
+      ],
+      "Article 69": [
+        "General"
+      ],
+      "Article 70": [
+        "General"
+      ],
+      "Article 71": [
+        "General"
+      ],
+      "Article 72": [
+        "Powers"
+      ],
+      "Article 73": [
+        "Powers"
+      ],
+      "Article 74": [
+        "General"
+      ],
+      "Article 75": [
+        "Provisions"
+      ],
+      "Article 76": [
+        "General"
+      ],
+      "Article 77": [
+        "General"
+      ],
+      "Article 78": [
+        "General"
+      ],
+      "Article 79": [
+        "General"
+      ],
+      "Article 80": [
+        "General"
+      ],
+      "Article 81": [
+        "General"
+      ],
+      "Article 82": [
+        "General"
+      ],
+      "Article 83": [
+        "General"
+      ],
+      "Article 84": [
+        "General"
+      ],
+      "Article 85": [
+        "General"
+      ],
+      "Article 86": [
+        "Rights"
+      ],
+      "Article 87": [
+        "Provisions"
+      ],
+      "Article 88": [
+        "Rights"
+      ],
+      "Article 89": [
+        "General"
+      ],
+      "Article 90": [
+        "General"
+      ],
+      "Article 91": [
+        "Powers"
+      ],
+      "Article 92": [
+        "Prohibitions"
+      ],
+      "Article 93": [
+        "General"
+      ],
+      "Article 94": [
+        "General"
+      ],
+      "Article 95": [
+        "Powers"
+      ],
+      "Article 96": [
+        "Prohibitions"
+      ],
+      "Article 97": [
+        "General"
+      ],
+      "Article 98": [
+        "General"
+      ],
+      "Article 99": [
+        "General"
+      ],
+      "Article 100": [
+        "Powers",
+        "Prohibitions"
+      ],
+      "Article 101": [
+        "General"
+      ],
+      "Article 102": [
+        "General"
+      ],
+      "Article 103": [
+        "General"
+      ],
+      "Article 104": [
+        "Prohibitions"
+      ],
+      "Article 105": [
+        "Powers"
+      ],
+      "Article 106": [
+        "General"
+      ],
+      "Article 107": [
+        "Provisions"
+      ],
+      "Article 108": [
+        "General"
+      ],
+      "Article 109": [
+        "Procedures",
+        "Provisions"
+      ],
+      "Article 110": [
+        "Definitions"
+      ],
+      "Article 111": [
+        "General"
+      ],
+      "Article 112": [
+        "General"
+      ],
+      "Article 113": [
+        "Procedures"
+      ],
+      "Article 114": [
+        "General"
+      ],
+      "Article 115": [
+        "General"
+      ],
+      "Article 116": [
+        "General"
+      ],
+      "Article 117": [
+        "Provisions"
+      ],
+      "Article 118": [
+        "Procedures"
+      ],
+      "Article 119": [
+        "Procedures"
+      ],
+      "Article 120": [
+        "General"
+      ],
+      "Article 121": [
+        "General"
+      ],
+      "Article 122": [
+        "Prohibitions"
+      ],
+      "Article 123": [
+        "Powers"
+      ],
+      "Article 124": [
+        "General"
+      ],
+      "Article 124A": [
+        "General"
+      ],
+      "Article 124B": [
+        "General"
+      ],
+      "Article 124C": [
+        "Powers"
+      ],
+      "Article 125": [
+        "General"
+      ],
+      "Article 126": [
+        "General"
+      ],
+      "Article 127": [
+        "General"
+      ],
+      "Article 128": [
+        "General"
+      ],
+      "Article 129": [
+        "General"
+      ],
+      "Article 130": [
+        "General"
+      ],
+      "Article 131": [
+        "Powers"
+      ],
+      "Article 131A": [
+        "General"
+      ],
+      "Article 132": [
+        "Powers"
+      ],
+      "Article 133": [
+        "Powers"
+      ],
+      "Article 134": [
+        "Powers"
+      ],
+      "Article 134A": [
+        "General"
+      ],
+      "Article 135": [
+        "Powers"
+      ],
+      "Article 136": [
+        "Provisions"
+      ],
+      "Article 137": [
+        "General"
+      ],
+      "Article 138": [
+        "Powers"
+      ],
+      "Article 139": [
+        "Powers"
+      ],
+      "Article 139A": [
+        "General"
+      ],
+      "Article 140": [
+        "Powers"
+      ],
+      "Article 141": [
+        "General"
+      ],
+      "Article 142": [
+        "General"
+      ],
+      "Article 143": [
+        "Powers"
+      ],
+      "Article 144": [
+        "General"
+      ],
+      "Article 144A": [
+        "General"
+      ],
+      "Article 145": [
+        "General"
+      ],
+      "Article 146": [
+        "General"
+      ],
+      "Article 147": [
+        "Definitions"
+      ],
+      "Article 148": [
+        "General"
+      ],
+      "Article 149": [
+        "Powers"
+      ],
+      "Article 150": [
+        "General"
+      ],
+      "Article 151": [
+        "General"
+      ],
+      "Article 152": [
+        "Definitions"
+      ],
+      "Article 153": [
+        "General"
+      ],
+      "Article 154": [
+        "Powers"
+      ],
+      "Article 155": [
+        "General"
+      ],
+      "Article 156": [
+        "General"
+      ],
+      "Article 157": [
+        "General"
+      ],
+      "Article 158": [
+        "General"
+      ],
+      "Article 159": [
+        "General"
+      ],
+      "Article 160": [
+        "General"
+      ],
+      "Article 161": [
+        "Powers"
+      ],
+      "Article 162": [
+        "Powers"
+      ],
+      "Article 163": [
+        "General"
+      ],
+      "Article 164": [
+        "Provisions"
+      ],
+      "Article 165": [
+        "General"
+      ],
+      "Article 166": [
+        "General"
+      ],
+      "Article 167": [
+        "General"
+      ],
+      "Article 168": [
+        "General"
+      ],
+      "Article 169": [
+        "General"
+      ],
+      "Article 170": [
+        "General"
+      ],
+      "Article 171": [
+        "General"
+      ],
+      "Article 172": [
+        "General"
+      ],
+      "Article 173": [
+        "General"
+      ],
+      "Article 174": [
+        "General"
+      ],
+      "Article 175": [
+        "Rights"
+      ],
+      "Article 176": [
+        "Provisions"
+      ],
+      "Article 177": [
+        "Rights"
+      ],
+      "Article 178": [
+        "General"
+      ],
+      "Article 179": [
+        "General"
+      ],
+      "Article 180": [
+        "Powers"
+      ],
+      "Article 181": [
+        "Prohibitions"
+      ],
+      "Article 182": [
+        "General"
+      ],
+      "Article 183": [
+        "General"
+      ],
+      "Article 184": [
+        "Powers"
+      ],
+      "Article 185": [
+        "Prohibitions"
+      ],
+      "Article 186": [
+        "General"
+      ],
+      "Article 187": [
+        "General"
+      ],
+      "Article 188": [
+        "General"
+      ],
+      "Article 189": [
+        "Powers",
+        "Prohibitions"
+      ],
+      "Article 190": [
+        "General"
+      ],
+      "Article 191": [
+        "General"
+      ],
+      "Article 192": [
+        "General"
+      ],
+      "Article 193": [
+        "Prohibitions"
+      ],
+      "Article 194": [
+        "Powers"
+      ],
+      "Article 195": [
+        "General"
+      ],
+      "Article 196": [
+        "Provisions"
+      ],
+      "Article 197": [
+        "Powers"
+      ],
+      "Article 198": [
+        "Procedures",
+        "Provisions"
+      ],
+      "Article 199": [
+        "Definitions"
+      ],
+      "Article 200": [
+        "General"
+      ],
+      "Article 201": [
+        "General"
+      ],
+      "Article 202": [
+        "General"
+      ],
+      "Article 203": [
+        "Procedures"
+      ],
+      "Article 204": [
+        "General"
+      ],
+      "Article 205": [
+        "General"
+      ],
+      "Article 206": [
+        "General"
+      ],
+      "Article 207": [
+        "Provisions"
+      ],
+      "Article 208": [
+        "Procedures"
+      ],
+      "Article 209": [
+        "Procedures"
+      ],
+      "Article 210": [
+        "General"
+      ],
+      "Article 211": [
+        "General"
+      ],
+      "Article 212": [
+        "Prohibitions"
+      ],
+      "Article 213": [
+        "Powers"
+      ],
+      "Article 214": [
+        "General"
+      ],
+      "Article 215": [
+        "General"
+      ],
+      "Article 216": [
+        "General"
+      ],
+      "Article 217": [
+        "General"
+      ],
+      "Article 218": [
+        "Provisions"
+      ],
+      "Article 219": [
+        "General"
+      ],
+      "Article 220": [
+        "General"
+      ],
+      "Article 221": [
+        "General"
+      ],
+      "Article 222": [
+        "Prohibitions"
+      ],
+      "Article 223": [
+        "General"
+      ],
+      "Article 224": [
+        "General"
+      ],
+      "Article 224A": [
+        "General"
+      ],
+      "Article 225": [
+        "Powers"
+      ],
+      "Article 226": [
+        "Powers"
+      ],
+      "Article 226A": [
+        "General"
+      ],
+      "Article 227": [
+        "Powers"
+      ],
+      "Article 228": [
+        "General"
+      ],
+      "Article 228A": [
+        "General"
+      ],
+      "Article 229": [
+        "General"
+      ],
+      "Article 230": [
+        "Powers"
+      ],
+      "Article 231": [
+        "General"
+      ],
+      "Article 232": [
+        "General"
+      ],
+      "Article 233": [
+        "General"
+      ],
+      "Article 234": [
+        "General"
+      ],
+      "Article 235": [
+        "General"
+      ],
+      "Article 236": [
+        "Definitions"
+      ],
+      "Article 237": [
+        "Provisions"
+      ],
+      "Article 238": [
+        "General"
+      ],
+      "Article 239": [
+        "General"
+      ],
+      "Article 239A": [
+        "General"
+      ],
+      "Article 239AA": [
+        "Provisions"
+      ],
+      "Article 239AB": [
+        "Provisions"
+      ],
+      "Article 239B": [
+        "Powers"
+      ],
+      "Article 240": [
+        "Powers"
+      ],
+      "Article 241": [
+        "General"
+      ],
+      "Article 242": [
+        "General"
+      ],
+      "Article 243": [
+        "Definitions"
+      ],
+      "Article 243A": [
+        "General"
+      ],
+      "Article 243B": [
+        "General"
+      ],
+      "Article 243C": [
+        "General"
+      ],
+      "Article 243D": [
+        "General"
+      ],
+      "Article 243E": [
+        "General"
+      ],
+      "Article 243F": [
+        "General"
+      ],
+      "Article 243G": [
+        "Powers"
+      ],
+      "Article 243H": [
+        "Powers"
+      ],
+      "Article 243I": [
+        "General"
+      ],
+      "Article 243J": [
+        "General"
+      ],
+      "Article 243K": [
+        "General"
+      ],
+      "Article 243L": [
+        "General"
+      ],
+      "Article 243M": [
+        "Prohibitions"
+      ],
+      "Article 243N": [
+        "General"
+      ],
+      "Article 243O": [
+        "Prohibitions"
+      ],
+      "Article 243P": [
+        "Definitions"
+      ],
+      "Article 243Q": [
+        "General"
+      ],
+      "Article 243R": [
+        "General"
+      ],
+      "Article 243S": [
+        "General"
+      ],
+      "Article 243T": [
+        "General"
+      ],
+      "Article 243U": [
+        "General"
+      ],
+      "Article 243V": [
+        "General"
+      ],
+      "Article 243W": [
+        "Powers"
+      ],
+      "Article 243X": [
+        "Powers"
+      ],
+      "Article 243Y": [
+        "General"
+      ],
+      "Article 243Z": [
+        "General"
+      ],
+      "Article 243ZA": [
+        "General"
+      ],
+      "Article 243ZB": [
+        "General"
+      ],
+      "Article 243ZC": [
+        "Prohibitions"
+      ],
+      "Article 243ZD": [
+        "General"
+      ],
+      "Article 243ZE": [
+        "General"
+      ],
+      "Article 243ZF": [
+        "General"
+      ],
+      "Article 243ZG": [
+        "Prohibitions"
+      ],
+      "Article 243ZH": [
+        "Definitions"
+      ],
+      "Article 243ZI": [
+        "General"
+      ],
+      "Article 243ZJ": [
+        "General"
+      ],
+      "Article 243ZK": [
+        "General"
+      ],
+      "Article 243ZL": [
+        "General"
+      ],
+      "Article 243ZM": [
+        "General"
+      ],
+      "Article 243ZN": [
+        "General"
+      ],
+      "Article 243ZO": [
+        "Rights"
+      ],
+      "Article 243ZP": [
+        "General"
+      ],
+      "Article 243ZQ": [
+        "General"
+      ],
+      "Article 243ZR": [
+        "General"
+      ],
+      "Article 243ZS": [
+        "General"
+      ],
+      "Article 243ZT": [
+        "General"
+      ],
+      "Article 244": [
+        "General"
+      ],
+      "Article 244A": [
+        "General"
+      ],
+      "Article 245": [
+        "General"
+      ],
+      "Article 246": [
+        "General"
+      ],
+      "Article 247": [
+        "Powers"
+      ],
+      "Article 248": [
+        "Powers"
+      ],
+      "Article 249": [
+        "Powers"
+      ],
+      "Article 250": [
+        "Powers"
+      ],
+      "Article 251": [
+        "General"
+      ],
+      "Article 252": [
+        "Powers"
+      ],
+      "Article 253": [
+        "General"
+      ],
+      "Article 254": [
+        "General"
+      ],
+      "Article 255": [
+        "Procedures"
+      ],
+      "Article 256": [
+        "Duties"
+      ],
+      "Article 257": [
+        "General"
+      ],
+      "Article 257A": [
+        "General"
+      ],
+      "Article 258": [
+        "Powers"
+      ],
+      "Article 258A": [
+        "Powers"
+      ],
+      "Article 259": [
+        "General"
+      ],
+      "Article 260": [
+        "Powers"
+      ],
+      "Article 261": [
+        "General"
+      ],
+      "Article 262": [
+        "General"
+      ],
+      "Article 263": [
+        "Provisions"
+      ],
+      "Article 264": [
+        "Definitions"
+      ],
+      "Article 265": [
+        "Powers",
+        "Prohibitions"
+      ],
+      "Article 266": [
+        "General"
+      ],
+      "Article 267": [
+        "General"
+      ],
+      "Article 268": [
+        "General"
+      ],
+      "Article 268A": [
+        "General"
+      ],
+      "Article 269": [
+        "General"
+      ],
+      "Article 270": [
+        "General"
+      ],
+      "Article 271": [
+        "General"
+      ],
+      "Article 272": [
+        "General"
+      ],
+      "Article 273": [
+        "Duties"
+      ],
+      "Article 274": [
+        "General"
+      ],
+      "Article 275": [
+        "General"
+      ],
+      "Article 276": [
+        "General"
+      ],
+      "Article 277": [
+        "General"
+      ],
+      "Article 278": [
+        "General"
+      ],
+      "Article 279": [
+        "General"
+      ],
+      "Article 280": [
+        "General"
+      ],
+      "Article 281": [
+        "General"
+      ],
+      "Article 282": [
+        "General"
+      ],
+      "Article 283": [
+        "General"
+      ],
+      "Article 284": [
+        "General"
+      ],
+      "Article 285": [
+        "General"
+      ],
+      "Article 286": [
+        "General"
+      ],
+      "Article 287": [
+        "General"
+      ],
+      "Article 288": [
+        "General"
+      ],
+      "Article 289": [
+        "General"
+      ],
+      "Article 290": [
+        "General"
+      ],
+      "Article 290A": [
+        "General"
+      ],
+      "Article 291": [
+        "General"
+      ],
+      "Article 292": [
+        "General"
+      ],
+      "Article 293": [
+        "General"
+      ],
+      "Article 294": [
+        "Rights",
+        "Duties"
+      ],
+      "Article 295": [
+        "Rights",
+        "Duties"
+      ],
+      "Article 296": [
+        "General"
+      ],
+      "Article 297": [
+        "General"
+      ],
+      "Article 298": [
+        "Powers"
+      ],
+      "Article 299": [
+        "General"
+      ],
+      "Article 300": [
+        "General"
+      ],
+      "Article 300A": [
+        "Powers",
+        "Prohibitions"
+      ],
+      "Article 301": [
+        "Rights"
+      ],
+      "Article 302": [
+        "Powers"
+      ],
+      "Article 303": [
+        "Powers"
+      ],
+      "Article 304": [
+        "General"
+      ],
+      "Article 305": [
+        "General"
+      ],
+      "Article 306": [
+        "General"
+      ],
+      "Article 307": [
+        "Powers"
+      ],
+      "Article 308": [
+        "Definitions"
+      ],
+      "Article 309": [
+        "General"
+      ],
+      "Article 310": [
+        "General"
+      ],
+      "Article 311": [
+        "General"
+      ],
+      "Article 312": [
+        "General"
+      ],
+      "Article 312A": [
+        "Powers"
+      ],
+      "Article 313": [
+        "Provisions"
+      ],
+      "Article 314": [
+        "General"
+      ],
+      "Article 315": [
+        "General"
+      ],
+      "Article 316": [
+        "General"
+      ],
+      "Article 317": [
+        "General"
+      ],
+      "Article 318": [
+        "Powers"
+      ],
+      "Article 319": [
+        "Prohibitions"
+      ],
+      "Article 320": [
+        "General"
+      ],
+      "Article 321": [
+        "Powers"
+      ],
+      "Article 322": [
+        "General"
+      ],
+      "Article 323": [
+        "General"
+      ],
+      "Article 323A": [
+        "General"
+      ],
+      "Article 323B": [
+        "General"
+      ],
+      "Article 324": [
+        "General"
+      ],
+      "Article 325": [
+        "Provisions"
+      ],
+      "Article 326": [
+        "General"
+      ],
+      "Article 327": [
+        "Powers",
+        "Provisions"
+      ],
+      "Article 328": [
+        "Powers",
+        "Provisions"
+      ],
+      "Article 329": [
+        "Prohibitions"
+      ],
+      "Article 329A": [
+        "General"
+      ],
+      "Article 330": [
+        "General"
+      ],
+      "Article 331": [
+        "General"
+      ],
+      "Article 332": [
+        "General"
+      ],
+      "Article 333": [
+        "General"
+      ],
+      "Article 334": [
+        "Provisions"
+      ],
+      "Article 335": [
+        "General"
+      ],
+      "Article 336": [
+        "Provisions"
+      ],
+      "Article 337": [
+        "Provisions"
+      ],
+      "Article 338": [
+        "General"
+      ],
+      "Article 338A": [
+        "General"
+      ],
+      "Article 338B": [
+        "General"
+      ],
+      "Article 339": [
+        "General"
+      ],
+      "Article 340": [
+        "General"
+      ],
+      "Article 341": [
+        "General"
+      ],
+      "Article 342": [
+        "General"
+      ],
+      "Article 342A": [
+        "General"
+      ],
+      "Article 343": [
+        "General"
+      ],
+      "Article 344": [
+        "General"
+      ],
+      "Article 345": [
+        "General"
+      ],
+      "Article 346": [
+        "Prohibitions"
+      ],
+      "Article 347": [
+        "Provisions"
+      ],
+      "Article 348": [
+        "General"
+      ],
+      "Article 349": [
+        "Procedures",
+        "Provisions"
+      ],
+      "Article 350": [
+        "General"
+      ],
+      "Article 350A": [
+        "General"
+      ],
+      "Article 350B": [
+        "Provisions"
+      ],
+      "Article 351": [
+        "General"
+      ],
+      "Article 352": [
+        "General"
+      ],
+      "Article 353": [
+        "General"
+      ],
+      "Article 354": [
+        "Provisions"
+      ],
+      "Article 355": [
+        "Duties"
+      ],
+      "Article 356": [
+        "Provisions"
+      ],
+      "Article 357": [
+        "Powers"
+      ],
+      "Article 358": [
+        "Provisions"
+      ],
+      "Article 359": [
+        "Rights"
+      ],
+      "Article 359A": [
+        "General"
+      ],
+      "Article 360": [
+        "Provisions"
+      ],
+      "Article 361": [
+        "Protections"
+      ],
+      "Article 361A": [
+        "Protections"
+      ],
+      "Article 361B": [
+        "General"
+      ],
+      "Article 362": [
+        "General"
+      ],
+      "Article 363": [
+        "Prohibitions"
+      ],
+      "Article 363A": [
+        "General"
+      ],
+      "Article 364": [
+        "Provisions"
+      ],
+      "Article 365": [
+        "General"
+      ],
+      "Article 366": [
+        "Definitions"
+      ],
+      "Article 367": [
+        "Definitions"
+      ],
+      "Article 368": [
+        "Powers",
+        "Procedures"
+      ],
+      "Article 369": [
+        "Powers",
+        "Provisions"
+      ],
+      "Article 370": [
+        "Provisions"
+      ],
+      "Article 371A": [
+        "Provisions"
+      ],
+      "Article 371B": [
+        "Provisions"
+      ],
+      "Article 371C": [
+        "Provisions"
+      ],
+      "Article 371D": [
+        "Provisions"
+      ],
+      "Article 371E": [
+        "General"
+      ],
+      "Article 371F": [
+        "Provisions"
+      ],
+      "Article 371G": [
+        "Provisions"
+      ],
+      "Article 371H": [
+        "Provisions"
+      ],
+      "Article 371I": [
+        "Provisions"
+      ],
+      "Article 371J": [
+        "Provisions"
+      ],
+      "Article 372": [
+        "General"
+      ],
+      "Article 372A": [
+        "Powers"
+      ],
+      "Article 373": [
+        "Powers"
+      ],
+      "Article 374": [
+        "Provisions"
+      ],
+      "Article 375": [
+        "Provisions"
+      ],
+      "Article 376": [
+        "Provisions"
+      ],
+      "Article 377": [
+        "Provisions"
+      ],
+      "Article 378": [
+        "Provisions"
+      ],
+      "Article 378A": [
+        "Provisions"
+      ],
+      "Article 379 to 391": [
+        "General"
+      ],
+      "Article 392": [
+        "Powers"
+      ],
+      "Article 393": [
+        "General"
+      ],
+      "Article 394": [
+        "General"
+      ],
+      "Article 394A": [
+        "General"
+      ],
+      "Article 395": [
+        "General"
+      ]
+    }
+  }
+}

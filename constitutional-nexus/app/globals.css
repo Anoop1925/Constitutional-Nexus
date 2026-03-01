@@ -1,0 +1,412 @@
+@import "tailwindcss";
+
+/* Constitutional Nexus - Premium Light/Dark Mode */
+
+:root {
+  --ivory: #F8F5F0;
+  --ivory-dark: #EDE8E0;
+  --navy: #0E1A2B;
+  --navy-light: #1C2E4A;
+  --gold: #C5A047;
+  --gold-light: #D4B768;
+  --gold-dark: #A88A36;
+  --indigo: #2B3A67;
+  --indigo-light: #3D4F80;
+  --text-primary: #0E1A2B;
+  --text-secondary: #4A5568;
+  --text-muted: #8896A6;
+  --card-bg: rgba(255, 255, 255, 0.75);
+  --card-border: rgba(14, 26, 43, 0.08);
+  --glass-bg: rgba(255, 255, 255, 0.6);
+  --glass-border: rgba(14, 26, 43, 0.06);
+  --page-bg: #F8F5F0;
+  --card-solid-bg: #ffffff;
+  --border-subtle: rgba(14, 26, 43, 0.06);
+  --border-medium: rgba(14, 26, 43, 0.1);
+  --provision-bg: #F8F5F0;
+  --input-bg: rgba(255, 255, 255, 0.8);
+  --hover-bg: rgba(14, 26, 43, 0.04);
+  --section-alt-bg: rgba(255, 255, 255, 0.4);
+}
+
+/* Dark Mode */
+[data-theme="dark"] {
+  --ivory: #0F1419;
+  --ivory-dark: #1A2332;
+  --navy: #E8ECF1;
+  --navy-light: #C8D0DB;
+  --text-primary: #E8ECF1;
+  --text-secondary: #A0AEC0;
+  --text-muted: #718096;
+  --card-bg: rgba(26, 35, 50, 0.75);
+  --card-border: rgba(255, 255, 255, 0.08);
+  --glass-bg: rgba(26, 35, 50, 0.6);
+  --glass-border: rgba(255, 255, 255, 0.06);
+  --page-bg: #0F1419;
+  --card-solid-bg: #1A2332;
+  --border-subtle: rgba(255, 255, 255, 0.06);
+  --border-medium: rgba(255, 255, 255, 0.1);
+  --provision-bg: #1A2332;
+  --input-bg: rgba(26, 35, 50, 0.8);
+  --hover-bg: rgba(255, 255, 255, 0.04);
+  --section-alt-bg: rgba(26, 35, 50, 0.4);
+}
+
+@theme inline {
+  --color-background: var(--ivory);
+  --color-foreground: var(--navy);
+  --color-ivory: #F8F5F0;
+  --color-ivory-dark: #EDE8E0;
+  --color-navy: #0E1A2B;
+  --color-navy-light: #1C2E4A;
+  --color-gold: #C5A047;
+  --color-gold-light: #D4B768;
+  --color-gold-dark: #A88A36;
+  --color-indigo: #2B3A67;
+  --color-indigo-light: #3D4F80;
+  --font-sans: 'Inter', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-mono: ui-monospace, "Cascadia Code", "SF Mono", monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--page-bg);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  min-height: 100vh;
+  overflow-x: hidden;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--ivory-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--gold);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--gold-dark);
+}
+
+/* Serif heading utility */
+.font-heading {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+/* Glass Effect - Light Mode */
+.glass {
+  background: var(--glass-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--glass-border);
+  box-shadow: 0 4px 24px rgba(14, 26, 43, 0.06);
+}
+
+.glass-strong {
+  background: var(--card-bg);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid var(--card-border);
+  box-shadow: 0 8px 32px rgba(14, 26, 43, 0.08);
+}
+
+/* Gradient Text - Gold accent */
+.gradient-text {
+  background: linear-gradient(135deg, var(--navy) 0%, var(--indigo) 50%, var(--gold) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-text-gold {
+  background: linear-gradient(135deg, var(--gold-dark) 0%, var(--gold) 50%, var(--gold-light) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Card Hover Effect */
+.card-hover {
+  transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.card-hover:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 24px 48px rgba(14, 26, 43, 0.12), 0 0 0 1px rgba(197, 160, 71, 0.15);
+}
+
+/* Elevated card */
+.card-elevated {
+  background: var(--card-solid-bg);
+  border: 1px solid var(--border-subtle);
+  box-shadow: 0 4px 16px rgba(14, 26, 43, 0.06), 0 1px 4px rgba(14, 26, 43, 0.04);
+  border-radius: 1rem;
+  transition: background 0.3s ease, border 0.3s ease;
+}
+
+/* Button Styles */
+.btn-primary {
+  background: var(--gold);
+  color: var(--navy);
+  font-weight: 600;
+  border-radius: 1rem;
+  padding: 0.75rem 2rem;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 16px rgba(197, 160, 71, 0.3);
+}
+
+.btn-primary:hover {
+  background: var(--gold-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(197, 160, 71, 0.4);
+}
+
+.btn-outline {
+  background: transparent;
+  color: var(--navy);
+  font-weight: 600;
+  border-radius: 1rem;
+  padding: 0.75rem 2rem;
+  border: 2px solid var(--navy);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn-outline:hover {
+  background: rgba(14, 26, 43, 0.04);
+  transform: translateY(-2px);
+}
+
+/* Floating animation */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-12px);
+  }
+}
+
+.animate-float {
+  animation: float 5s ease-in-out infinite;
+}
+
+/* Subtle pulse */
+@keyframes pulse-soft {
+  0%, 100% {
+    opacity: 0.7;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.pulse-soft {
+  animation: pulse-soft 3s ease-in-out infinite;
+}
+
+/* Gold border accent */
+.border-gold-accent {
+  border-left: 4px solid var(--gold);
+}
+
+/* Selection */
+::selection {
+  background: rgba(197, 160, 71, 0.25);
+  color: var(--navy);
+}
+
+/* Badge styles */
+.badge-gold {
+  background: rgba(197, 160, 71, 0.15);
+  color: var(--gold-dark);
+  font-weight: 500;
+}
+
+.badge-indigo {
+  background: rgba(43, 58, 103, 0.1);
+  color: var(--indigo);
+  font-weight: 500;
+}
+
+.badge-green {
+  background: rgba(22, 163, 74, 0.1);
+  color: #15803d;
+  font-weight: 500;
+}
+
+.badge-red {
+  background: rgba(220, 38, 38, 0.1);
+  color: #b91c1c;
+  font-weight: 500;
+}
+
+/* Decorative golden line */
+.gold-line {
+  height: 3px;
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+}
+
+/* Stat card */
+.stat-glass {
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(197, 160, 71, 0.2);
+  box-shadow: 0 8px 32px rgba(14, 26, 43, 0.08);
+}
+
+/* ═══════════════════════════════════════
+   HERO — Analytics Bar (below buttons)
+═══════════════════════════════════════ */
+.analytics-bar {
+  display: flex;
+  align-items: center;
+  gap: 1.75rem;
+  background: transparent;
+  padding: 0;
+  max-width: max-content;
+}
+
+.analytics-icon-wrap {
+  width: 42px;
+  height: 42px;
+  border-radius: 0.625rem;
+  background: rgba(197, 160, 71, 0.14);
+  color: var(--gold);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.analytics-divider {
+  width: 1px;
+  height: 36px;
+  background: var(--border-medium);
+  margin-left: 0.5rem;
+}
+
+@media (max-width: 639px) {
+  .analytics-bar {
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+    flex-wrap: wrap;
+    max-width: 100%;
+    justify-content: center;
+  }
+
+  .analytics-divider {
+    display: none;
+  }
+}
+
+/* ═══════════════════════════════════════
+   HERO — Cinematic Stat Cards
+═══════════════════════════════════════ */
+.stat-card-hero {
+  background: var(--card-bg);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(197, 160, 71, 0.18);
+  box-shadow:
+    0 12px 40px rgba(14, 26, 43, 0.12),
+    0 4px 12px rgba(14, 26, 43, 0.06),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6);
+  border-radius: 1.25rem;
+  padding: 1rem 1.5rem;
+  text-align: center;
+  min-width: 120px;
+}
+
+/* ═══════════════════════════════════════
+   HERO — Chart Card
+═══════════════════════════════════════ */
+.chart-card-hero {
+  background: var(--card-bg);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid rgba(197, 160, 71, 0.15);
+  box-shadow:
+    0 16px 48px rgba(14, 26, 43, 0.12),
+    0 4px 16px rgba(14, 26, 43, 0.06),
+    inset 0 1px 0 rgba(255, 255, 255, 0.7);
+  border-radius: 1.25rem;
+  padding: 1rem 1.25rem;
+  width: 280px;
+  height: 200px;
+}
+
+/* ═══════════════════════════════════════
+   HERO — Mini Info Card (lower-left)
+═══════════════════════════════════════ */
+.mini-info-card {
+  background: var(--glass-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--border-subtle);
+  box-shadow: 0 8px 24px rgba(14, 26, 43, 0.08);
+  border-radius: 1rem;
+  padding: 0.75rem 1rem;
+}
+
+/* ═══════════════════════════════════════
+   HERO — Headline Typography
+═══════════════════════════════════════ */
+/* ▼ MANUAL ADJUST: tweak clamp values to change hero text size */
+.hero-headline {
+  font-size: clamp(2.1rem, 4.2vw, 3.25rem);
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+}
+
+.hero-headline-large {
+  font-size: clamp(2.5rem, 5.2vw, 4rem);
+}
+
+/* ═══════════════════════════════════════
+   HERO — Statue
+═══════════════════════════════════════ */
+/* ▼ MANUAL ADJUST: margin-top moves statue up (more negative = higher)
+   e.g. -2rem, -4rem, -6rem */
+.statue-container {
+  margin-top: -3rem;
+}
+
+/* Mobile responsiveness for hero */
+@media (max-width: 1023px) {
+  .hero-headline {
+    font-size: clamp(2.25rem, 8vw, 3.5rem);
+  }
+
+  .hero-headline-large {
+    font-size: clamp(2.6rem, 9vw, 4rem);
+  }
+
+  .chart-card-hero {
+    width: 240px;
+    height: 170px;
+  }
+}
+
+@media (max-width: 639px) {
+  .hero-headline {
+    font-size: 2.25rem;
+  }
+
+  .hero-headline-large {
+    font-size: 2.75rem;
+  }
+}

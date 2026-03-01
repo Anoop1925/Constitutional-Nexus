@@ -1,0 +1,3423 @@
+[
+  {
+    "name": "Union Powers",
+    "count": 190,
+    "articles": [
+      {
+        "article_id": "article-1",
+        "article_number": "1",
+        "provision": "Name and territory of the Union...."
+      },
+      {
+        "article_id": "article-2",
+        "article_number": "2",
+        "provision": "Admission or establishment of new States...."
+      },
+      {
+        "article_id": "article-3",
+        "article_number": "2A",
+        "provision": "[Omitted.]..."
+      },
+      {
+        "article_id": "article-4",
+        "article_number": "3",
+        "provision": "Formation of new States and alteration of areas, boundaries or names of existing States...."
+      },
+      {
+        "article_id": "article-5",
+        "article_number": "4",
+        "provision": "Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules ..."
+      },
+      {
+        "article_id": "article-12",
+        "article_number": "10",
+        "provision": "Parliament to regulate the right of citizenship by law...."
+      },
+      {
+        "article_id": "article-40",
+        "article_number": "33",
+        "provision": "Power of Parliament to modify the rights conferred by this Part in their application to Forces, etc...."
+      },
+      {
+        "article_id": "article-64",
+        "article_number": "52",
+        "provision": "The President of India...."
+      },
+      {
+        "article_id": "article-65",
+        "article_number": "53",
+        "provision": "Executive power of the Union...."
+      },
+      {
+        "article_id": "article-66",
+        "article_number": "54",
+        "provision": "Election of President...."
+      },
+      {
+        "article_id": "article-67",
+        "article_number": "55",
+        "provision": "Manner of election of President...."
+      },
+      {
+        "article_id": "article-68",
+        "article_number": "56",
+        "provision": "Term of office of President...."
+      },
+      {
+        "article_id": "article-69",
+        "article_number": "57",
+        "provision": "Eligibility for re-election...."
+      },
+      {
+        "article_id": "article-70",
+        "article_number": "58",
+        "provision": "Qualifications for election as President...."
+      },
+      {
+        "article_id": "article-71",
+        "article_number": "59",
+        "provision": "Conditions of Presidents office...."
+      },
+      {
+        "article_id": "article-72",
+        "article_number": "60",
+        "provision": "Oath or affirmation by the President...."
+      },
+      {
+        "article_id": "article-73",
+        "article_number": "61",
+        "provision": "Procedure for impeachment of the President...."
+      },
+      {
+        "article_id": "article-74",
+        "article_number": "62",
+        "provision": "Time of holding election to fill vacancy in the office of President and the term of office of person..."
+      },
+      {
+        "article_id": "article-75",
+        "article_number": "63",
+        "provision": "The Vice-President of India...."
+      },
+      {
+        "article_id": "article-76",
+        "article_number": "64",
+        "provision": "The Vice-President to be ex officio Chairman of the Council of States...."
+      },
+      {
+        "article_id": "article-77",
+        "article_number": "65",
+        "provision": "The Vice-President to act as President or to discharge his functions during casual vacancies in the ..."
+      },
+      {
+        "article_id": "article-78",
+        "article_number": "66",
+        "provision": "Election of Vice-President...."
+      },
+      {
+        "article_id": "article-79",
+        "article_number": "67",
+        "provision": "Term of office of Vice-President...."
+      },
+      {
+        "article_id": "article-80",
+        "article_number": "68",
+        "provision": "Time of holding election to fill vacancy in the office of Vice-President and the term of office of p..."
+      },
+      {
+        "article_id": "article-81",
+        "article_number": "69",
+        "provision": "Oath or affirmation by the Vice-President...."
+      },
+      {
+        "article_id": "article-82",
+        "article_number": "70",
+        "provision": "Discharge of Presidents functions in other contingencies...."
+      },
+      {
+        "article_id": "article-83",
+        "article_number": "71",
+        "provision": "Matters relating to, or connected with, the election of a President or Vice-President...."
+      },
+      {
+        "article_id": "article-84",
+        "article_number": "72",
+        "provision": "Power of President to grant pardons, etc., and to suspend, remit or commute sentences in certain cas..."
+      },
+      {
+        "article_id": "article-85",
+        "article_number": "73",
+        "provision": "Extent of executive power of the Union...."
+      },
+      {
+        "article_id": "article-86",
+        "article_number": "74",
+        "provision": "Council of Ministers to aid and advise President...."
+      },
+      {
+        "article_id": "article-87",
+        "article_number": "75",
+        "provision": "Other provisions as to Ministers...."
+      },
+      {
+        "article_id": "article-88",
+        "article_number": "76",
+        "provision": "Attorney-General for India...."
+      },
+      {
+        "article_id": "article-89",
+        "article_number": "77",
+        "provision": "Conduct of business of the Government of India...."
+      },
+      {
+        "article_id": "article-90",
+        "article_number": "78",
+        "provision": "Duties of Prime Minister as respects the furnishing of information to the President, etc...."
+      },
+      {
+        "article_id": "article-91",
+        "article_number": "79",
+        "provision": "Constitution of Parliament...."
+      },
+      {
+        "article_id": "article-92",
+        "article_number": "80",
+        "provision": "Composition of the Council of States...."
+      },
+      {
+        "article_id": "article-93",
+        "article_number": "81",
+        "provision": "Composition of the House of the People...."
+      },
+      {
+        "article_id": "article-94",
+        "article_number": "82",
+        "provision": "Readjustment after each census...."
+      },
+      {
+        "article_id": "article-95",
+        "article_number": "83",
+        "provision": "Duration of Houses of Parliament...."
+      },
+      {
+        "article_id": "article-96",
+        "article_number": "84",
+        "provision": "Qualification for membership of Parliament...."
+      },
+      {
+        "article_id": "article-97",
+        "article_number": "85",
+        "provision": "Sessions of Parliament, prorogation and dissolution...."
+      },
+      {
+        "article_id": "article-98",
+        "article_number": "86",
+        "provision": "Right of President to address and send messages to Houses...."
+      },
+      {
+        "article_id": "article-99",
+        "article_number": "87",
+        "provision": "Special address by the President...."
+      },
+      {
+        "article_id": "article-100",
+        "article_number": "88",
+        "provision": "Rights of Ministers and Attorney-General as respects Houses...."
+      },
+      {
+        "article_id": "article-101",
+        "article_number": "89",
+        "provision": "The Chairman and Deputy Chairman of the Council of States...."
+      },
+      {
+        "article_id": "article-102",
+        "article_number": "90",
+        "provision": "Vacation and resignation of, and removal from, the office of Deputy Chairman...."
+      },
+      {
+        "article_id": "article-103",
+        "article_number": "91",
+        "provision": "Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, C..."
+      },
+      {
+        "article_id": "article-104",
+        "article_number": "92",
+        "provision": "The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is..."
+      },
+      {
+        "article_id": "article-105",
+        "article_number": "93",
+        "provision": "The Speaker and Deputy Speaker of the House of the People...."
+      },
+      {
+        "article_id": "article-106",
+        "article_number": "94",
+        "provision": "Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker...."
+      },
+      {
+        "article_id": "article-107",
+        "article_number": "95",
+        "provision": "Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Sp..."
+      },
+      {
+        "article_id": "article-108",
+        "article_number": "96",
+        "provision": "The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is u..."
+      },
+      {
+        "article_id": "article-109",
+        "article_number": "97",
+        "provision": "Salaries and allowances of the Chairman and Deputy Chairman and the Speaker and Deputy Speaker...."
+      },
+      {
+        "article_id": "article-110",
+        "article_number": "98",
+        "provision": "Secretariat of Parliament...."
+      },
+      {
+        "article_id": "article-111",
+        "article_number": "99",
+        "provision": "Oath or affirmation by members...."
+      },
+      {
+        "article_id": "article-112",
+        "article_number": "100",
+        "provision": "Voting in Houses, power of Houses to act notwithstanding vacancies and quorum...."
+      },
+      {
+        "article_id": "article-113",
+        "article_number": "101",
+        "provision": "Vacation of seats...."
+      },
+      {
+        "article_id": "article-114",
+        "article_number": "102",
+        "provision": "Disqualifications for membership...."
+      },
+      {
+        "article_id": "article-115",
+        "article_number": "103",
+        "provision": "Decision on questions as to disqualifications of members...."
+      },
+      {
+        "article_id": "article-116",
+        "article_number": "104",
+        "provision": "Penalty for sitting and voting before making oath or affirmation under article 99 or when not qualif..."
+      },
+      {
+        "article_id": "article-117",
+        "article_number": "105",
+        "provision": "Powers, privileges, etc., of the Houses of Parliament and of the members and committees thereof...."
+      },
+      {
+        "article_id": "article-118",
+        "article_number": "106",
+        "provision": "Salaries and allowances of members...."
+      },
+      {
+        "article_id": "article-119",
+        "article_number": "107",
+        "provision": "Provisions as to introduction and passing of Bills...."
+      },
+      {
+        "article_id": "article-120",
+        "article_number": "108",
+        "provision": "Joint sitting of both Houses in certain cases...."
+      },
+      {
+        "article_id": "article-121",
+        "article_number": "109",
+        "provision": "Special procedure in respect of Money Bills...."
+      },
+      {
+        "article_id": "article-122",
+        "article_number": "110",
+        "provision": "Definition of Money Bills...."
+      },
+      {
+        "article_id": "article-123",
+        "article_number": "111",
+        "provision": "Assent to Bills...."
+      },
+      {
+        "article_id": "article-124",
+        "article_number": "112",
+        "provision": "Annual financial statement...."
+      },
+      {
+        "article_id": "article-125",
+        "article_number": "113",
+        "provision": "Procedure in Parliament with respect to estimates...."
+      },
+      {
+        "article_id": "article-126",
+        "article_number": "114",
+        "provision": "Appropriation Bills...."
+      },
+      {
+        "article_id": "article-127",
+        "article_number": "115",
+        "provision": "Supplementary, additional or excess grants...."
+      },
+      {
+        "article_id": "article-128",
+        "article_number": "116",
+        "provision": "Votes on account, votes of credit and exceptional grants...."
+      },
+      {
+        "article_id": "article-129",
+        "article_number": "117",
+        "provision": "Special provisions as to financial Bills...."
+      },
+      {
+        "article_id": "article-130",
+        "article_number": "118",
+        "provision": "Rules of procedure...."
+      },
+      {
+        "article_id": "article-131",
+        "article_number": "119",
+        "provision": "Regulation by law of procedure in Parliament in relation to financial business...."
+      },
+      {
+        "article_id": "article-132",
+        "article_number": "120",
+        "provision": "Language to be used in Parliament...."
+      },
+      {
+        "article_id": "article-133",
+        "article_number": "121",
+        "provision": "Restriction on discussion in Parliament...."
+      },
+      {
+        "article_id": "article-134",
+        "article_number": "122",
+        "provision": "Courts not to inquire into proceedings of Parliament...."
+      },
+      {
+        "article_id": "article-135",
+        "article_number": "123",
+        "provision": "Power of President to promulgate Ordinances during recess of Parliament...."
+      },
+      {
+        "article_id": "article-136",
+        "article_number": "124",
+        "provision": "Establishment and constitution of Supreme Court...."
+      },
+      {
+        "article_id": "article-137",
+        "article_number": "124A",
+        "provision": "National Judicial Appointments Commission...."
+      },
+      {
+        "article_id": "article-138",
+        "article_number": "124B",
+        "provision": "Functions of Commission...."
+      },
+      {
+        "article_id": "article-139",
+        "article_number": "124C",
+        "provision": "Power of Parliament to make law...."
+      },
+      {
+        "article_id": "article-140",
+        "article_number": "125",
+        "provision": "Salaries, etc., of Judges...."
+      },
+      {
+        "article_id": "article-141",
+        "article_number": "126",
+        "provision": "Appointment of acting Chief Justice...."
+      },
+      {
+        "article_id": "article-142",
+        "article_number": "127",
+        "provision": "Appointment of ad hoc judges...."
+      },
+      {
+        "article_id": "article-143",
+        "article_number": "128",
+        "provision": "Attendance of retired Judges at sittings of the Supreme Court...."
+      },
+      {
+        "article_id": "article-144",
+        "article_number": "129",
+        "provision": "Supreme Court to be a court of record...."
+      },
+      {
+        "article_id": "article-145",
+        "article_number": "130",
+        "provision": "Seat of Supreme Court...."
+      },
+      {
+        "article_id": "article-146",
+        "article_number": "131",
+        "provision": "Original jurisdiction of the Supreme Court...."
+      },
+      {
+        "article_id": "article-147",
+        "article_number": "131A",
+        "provision": "[Omitted.]..."
+      },
+      {
+        "article_id": "article-148",
+        "article_number": "132",
+        "provision": "Appellate jurisdiction of Supreme Court in appeals from High Courts in certain cases...."
+      },
+      {
+        "article_id": "article-149",
+        "article_number": "133",
+        "provision": "Appellate jurisdiction of Supreme Court in appeals from High Courts in regard to civil matters...."
+      },
+      {
+        "article_id": "article-150",
+        "article_number": "134",
+        "provision": "Appellate jurisdiction of Supreme Court in regard to criminal matters...."
+      },
+      {
+        "article_id": "article-151",
+        "article_number": "134A",
+        "provision": "Certificate for appeal to the Supreme Court...."
+      },
+      {
+        "article_id": "article-152",
+        "article_number": "135",
+        "provision": "Jurisdiction and powers of the Federal Court under existing law to be exercisable by the Supreme Cou..."
+      },
+      {
+        "article_id": "article-153",
+        "article_number": "136",
+        "provision": "Special leave to appeal by the Supreme Court...."
+      },
+      {
+        "article_id": "article-154",
+        "article_number": "137",
+        "provision": "Review of judgments or orders by the Supreme Court...."
+      },
+      {
+        "article_id": "article-155",
+        "article_number": "138",
+        "provision": "Enlargement of the jurisdiction of the Supreme Court...."
+      },
+      {
+        "article_id": "article-156",
+        "article_number": "139",
+        "provision": "Conferment on the Supreme Court of powers to issue certain writs...."
+      },
+      {
+        "article_id": "article-157",
+        "article_number": "139A",
+        "provision": "Transfer of certain cases...."
+      },
+      {
+        "article_id": "article-158",
+        "article_number": "140",
+        "provision": "Ancillary powers of Supreme Court...."
+      },
+      {
+        "article_id": "article-159",
+        "article_number": "141",
+        "provision": "Law declared by Supreme Court to be binding on all courts...."
+      },
+      {
+        "article_id": "article-160",
+        "article_number": "142",
+        "provision": "Enforcement of decrees and orders of Supreme Court and orders as to discovery, etc...."
+      },
+      {
+        "article_id": "article-161",
+        "article_number": "143",
+        "provision": "Power of President to consult Supreme Court...."
+      },
+      {
+        "article_id": "article-162",
+        "article_number": "144",
+        "provision": "Civil and judicial authorities to act in aid of the Supreme Court...."
+      },
+      {
+        "article_id": "article-163",
+        "article_number": "144A",
+        "provision": "[Omitted.]..."
+      },
+      {
+        "article_id": "article-164",
+        "article_number": "145",
+        "provision": "Rules of Court, etc...."
+      },
+      {
+        "article_id": "article-165",
+        "article_number": "146",
+        "provision": "Officers and servants and the expenses of the Supreme Court...."
+      },
+      {
+        "article_id": "article-166",
+        "article_number": "147",
+        "provision": "Interpretation...."
+      },
+      {
+        "article_id": "article-167",
+        "article_number": "148",
+        "provision": "Comptroller and Auditor-General of India...."
+      },
+      {
+        "article_id": "article-168",
+        "article_number": "149",
+        "provision": "Duties and powers of the Comptroller and Auditor-General...."
+      },
+      {
+        "article_id": "article-169",
+        "article_number": "150",
+        "provision": "Form of accounts of the Union and of the States...."
+      },
+      {
+        "article_id": "article-170",
+        "article_number": "151",
+        "provision": "Audit reports...."
+      },
+      {
+        "article_id": "article-252",
+        "article_number": "230",
+        "provision": "Extension of jurisdiction of High Courts to Union territories...."
+      },
+      {
+        "article_id": "article-262",
+        "article_number": "239",
+        "provision": "Administration of Union territories...."
+      },
+      {
+        "article_id": "article-263",
+        "article_number": "239A",
+        "provision": "Creation of local Legislatures or Council of Ministers or both for certain Union territories...."
+      },
+      {
+        "article_id": "article-264",
+        "article_number": "239AA",
+        "provision": "Special provisions with respect to Delhi...."
+      },
+      {
+        "article_id": "article-265",
+        "article_number": "239AB",
+        "provision": "Provision in case of failure of constitutional machinery...."
+      },
+      {
+        "article_id": "article-266",
+        "article_number": "239B",
+        "provision": "Power of administrator to promulgate Ordinances during recess of Legislature...."
+      },
+      {
+        "article_id": "article-267",
+        "article_number": "240",
+        "provision": "Power of President to make regulations for certain Union territories...."
+      },
+      {
+        "article_id": "article-268",
+        "article_number": "241",
+        "provision": "High Courts for Union territories...."
+      },
+      {
+        "article_id": "article-269",
+        "article_number": "242",
+        "provision": "[Omitted .]..."
+      },
+      {
+        "article_id": "article-282",
+        "article_number": "243L",
+        "provision": "Application to Union territories...."
+      },
+      {
+        "article_id": "article-298",
+        "article_number": "243ZB",
+        "provision": "Application to Union territories...."
+      },
+      {
+        "article_id": "article-315",
+        "article_number": "243ZS",
+        "provision": "Application to Union territories...."
+      },
+      {
+        "article_id": "article-319",
+        "article_number": "245",
+        "provision": "Extent of laws made by Parliament and by the Legislatures of States...."
+      },
+      {
+        "article_id": "article-320",
+        "article_number": "246",
+        "provision": "Subject-matter of laws made by Parliament and by the Legislatures of States...."
+      },
+      {
+        "article_id": "article-321",
+        "article_number": "247",
+        "provision": "Power of Parliament to provide for the establishment of certain additional courts...."
+      },
+      {
+        "article_id": "article-322",
+        "article_number": "248",
+        "provision": "Residuary powers of legislation...."
+      },
+      {
+        "article_id": "article-323",
+        "article_number": "249",
+        "provision": "Power of Parliament to legislate with respect to a matter in the State List in the national interest..."
+      },
+      {
+        "article_id": "article-324",
+        "article_number": "250",
+        "provision": "Power of Parliament to legislate with respect to any matter in the State List if a Proclamation of E..."
+      },
+      {
+        "article_id": "article-325",
+        "article_number": "251",
+        "provision": "Inconsistency between laws made by Parliament under articles 249 and 250 and laws made by the Legisl..."
+      },
+      {
+        "article_id": "article-326",
+        "article_number": "252",
+        "provision": "Power of Parliament to legislate for two or more States by consent and adoption of such legislation ..."
+      },
+      {
+        "article_id": "article-327",
+        "article_number": "253",
+        "provision": "Legislation for giving effect to international agreements...."
+      },
+      {
+        "article_id": "article-328",
+        "article_number": "254",
+        "provision": "Inconsistency between laws made by Parliament and laws made by the Legislatures of States...."
+      },
+      {
+        "article_id": "article-329",
+        "article_number": "255",
+        "provision": "Requirements as to recommendations and previous sanctions to be regarded as matters of procedure onl..."
+      },
+      {
+        "article_id": "article-330",
+        "article_number": "256",
+        "provision": "Obligation of States and the Union...."
+      },
+      {
+        "article_id": "article-331",
+        "article_number": "257",
+        "provision": "Control of the Union over States in certain cases...."
+      },
+      {
+        "article_id": "article-332",
+        "article_number": "257A",
+        "provision": "[Omitted .]..."
+      },
+      {
+        "article_id": "article-333",
+        "article_number": "258",
+        "provision": "Power of the Union to confer powers, etc., on States in certain cases...."
+      },
+      {
+        "article_id": "article-334",
+        "article_number": "258A",
+        "provision": "Power of the States to entrust functions to the Union...."
+      },
+      {
+        "article_id": "article-335",
+        "article_number": "259",
+        "provision": "[Omitted .]..."
+      },
+      {
+        "article_id": "article-336",
+        "article_number": "260",
+        "provision": "Jurisdiction of the Union in relation to territories outside India...."
+      },
+      {
+        "article_id": "article-337",
+        "article_number": "261",
+        "provision": "Public acts, records and judicial proceedings...."
+      },
+      {
+        "article_id": "article-338",
+        "article_number": "262",
+        "provision": "Adjudication of disputes relating to waters of inter-State rivers or river valleys...."
+      },
+      {
+        "article_id": "article-339",
+        "article_number": "263",
+        "provision": "Provisions with respect to an inter-State Council...."
+      },
+      {
+        "article_id": "article-344",
+        "article_number": "268",
+        "provision": "Duties levied by the Union but collected and appropriated by the State...."
+      },
+      {
+        "article_id": "article-346",
+        "article_number": "269",
+        "provision": "Taxes levied and collected by the Union but assigned to the States...."
+      },
+      {
+        "article_id": "article-347",
+        "article_number": "270",
+        "provision": "Taxes levied and distributed between the Union and the States...."
+      },
+      {
+        "article_id": "article-348",
+        "article_number": "271",
+        "provision": "Surcharge on certain duties and taxes for purposes of the Union...."
+      },
+      {
+        "article_id": "article-351",
+        "article_number": "274",
+        "provision": "Prior recommendation of President required to Bills affecting taxation in which States are intereste..."
+      },
+      {
+        "article_id": "article-352",
+        "article_number": "275",
+        "provision": "Grants from the Union to certain States...."
+      },
+      {
+        "article_id": "article-359",
+        "article_number": "282",
+        "provision": "Expenditure defrayable by the Union or a State out of its revenues...."
+      },
+      {
+        "article_id": "article-362",
+        "article_number": "285",
+        "provision": "Exemption of property of the Union from State taxation...."
+      },
+      {
+        "article_id": "article-366",
+        "article_number": "289",
+        "provision": "Exemption of property and income of a State from Union taxation...."
+      },
+      {
+        "article_id": "article-375",
+        "article_number": "297",
+        "provision": "Things of value within territorial waters or continental shelf and resources of the exclusive econom..."
+      },
+      {
+        "article_id": "article-381",
+        "article_number": "302",
+        "provision": "Power of Parliament to impose restrictions on trade, commerce and intercourse...."
+      },
+      {
+        "article_id": "article-382",
+        "article_number": "303",
+        "provision": "Restrictions on the legislative powers of the Union and of the States with regard to trade and comme..."
+      },
+      {
+        "article_id": "article-387",
+        "article_number": "308",
+        "provision": "Interpretation...."
+      },
+      {
+        "article_id": "article-388",
+        "article_number": "309",
+        "provision": "Recruitment and conditions of service of persons serving the Union or a State...."
+      },
+      {
+        "article_id": "article-389",
+        "article_number": "310",
+        "provision": "Tenure of office of persons serving the Union or a State...."
+      },
+      {
+        "article_id": "article-390",
+        "article_number": "311",
+        "provision": "Dismissal, removal or reduction in rank of persons employed in civil capacities under the Union or a..."
+      },
+      {
+        "article_id": "article-391",
+        "article_number": "312",
+        "provision": "All-India services...."
+      },
+      {
+        "article_id": "article-392",
+        "article_number": "312A",
+        "provision": "Power of Parliament to vary or revoke conditions of service of officers of certain services...."
+      },
+      {
+        "article_id": "article-393",
+        "article_number": "313",
+        "provision": "Transitional provisions...."
+      },
+      {
+        "article_id": "article-394",
+        "article_number": "314",
+        "provision": "[Omitted .]..."
+      },
+      {
+        "article_id": "article-395",
+        "article_number": "315",
+        "provision": "Public Service Commissions for the Union and for the States...."
+      },
+      {
+        "article_id": "article-396",
+        "article_number": "316",
+        "provision": "Appointment and term of office of members...."
+      },
+      {
+        "article_id": "article-397",
+        "article_number": "317",
+        "provision": "Removal and suspension of a member of a Public Service Commission...."
+      },
+      {
+        "article_id": "article-398",
+        "article_number": "318",
+        "provision": "Power to make regulations as to conditions of service of members and staff of the Commission...."
+      },
+      {
+        "article_id": "article-399",
+        "article_number": "319",
+        "provision": "Prohibition as to the holding of offices by members of Commission on ceasing to be such members...."
+      },
+      {
+        "article_id": "article-400",
+        "article_number": "320",
+        "provision": "Functions of Public Service Commissions...."
+      },
+      {
+        "article_id": "article-401",
+        "article_number": "321",
+        "provision": "Power to extend functions of Public Service Commissions...."
+      },
+      {
+        "article_id": "article-402",
+        "article_number": "322",
+        "provision": "Expenses of Public Service Commissions...."
+      },
+      {
+        "article_id": "article-403",
+        "article_number": "323",
+        "provision": "Reports of Public Service Commissions...."
+      },
+      {
+        "article_id": "article-409",
+        "article_number": "327",
+        "provision": "Power of Parliament to make provision with respect to elections to Legislatures...."
+      },
+      {
+        "article_id": "article-424",
+        "article_number": "339",
+        "provision": "Control of the Union over the administration of Scheduled Areas and the welfare of Scheduled Tribes...."
+      },
+      {
+        "article_id": "article-429",
+        "article_number": "343",
+        "provision": "Official language of the Union...."
+      },
+      {
+        "article_id": "article-430",
+        "article_number": "344",
+        "provision": "Commission and Committee of Parliament on official language...."
+      },
+      {
+        "article_id": "article-432",
+        "article_number": "346",
+        "provision": "Official language for communication between one State and another or between a State and the Union...."
+      },
+      {
+        "article_id": "article-443",
+        "article_number": "355",
+        "provision": "Duty of the Union to protect States against external aggression and internal disturbance...."
+      },
+      {
+        "article_id": "article-450",
+        "article_number": "361",
+        "provision": "Protection of President and Governors and Rajpramukhs...."
+      },
+      {
+        "article_id": "article-451",
+        "article_number": "361A",
+        "provision": "Protection of publication of proceedings of Parliament and State Legislatures...."
+      },
+      {
+        "article_id": "article-457",
+        "article_number": "365",
+        "provision": "Effect of failure to comply with, or to give effect to, directions given by the Union...."
+      },
+      {
+        "article_id": "article-460",
+        "article_number": "368",
+        "provision": "Power of Parliament to amend the Constitution and procedure therefor...."
+      },
+      {
+        "article_id": "article-461",
+        "article_number": "369",
+        "provision": "Temporary power to Parliament to make laws with respect to certain matters in the State List as if t..."
+      },
+      {
+        "article_id": "article-475",
+        "article_number": "372A",
+        "provision": "Power of the President to adapt laws...."
+      },
+      {
+        "article_id": "article-476",
+        "article_number": "373",
+        "provision": "Power of President to make order in respect of persons under preventive detention in certain cases...."
+      },
+      {
+        "article_id": "article-484",
+        "article_number": "392",
+        "provision": "Power of the President to remove difficulties...."
+      }
+    ]
+  },
+  {
+    "name": "General",
+    "count": 111,
+    "articles": [
+      {
+        "article_id": "article-63",
+        "article_number": "51A",
+        "provision": "Fundamental duties...."
+      },
+      {
+        "article_id": "article-171",
+        "article_number": "152",
+        "provision": "Definition...."
+      },
+      {
+        "article_id": "article-183",
+        "article_number": "164",
+        "provision": "Other provisions as to Ministers...."
+      },
+      {
+        "article_id": "article-189",
+        "article_number": "170",
+        "provision": "Composition of the Legislative Assemblies...."
+      },
+      {
+        "article_id": "article-190",
+        "article_number": "171",
+        "provision": "Composition of the Legislative Councils...."
+      },
+      {
+        "article_id": "article-197",
+        "article_number": "178",
+        "provision": "The Speaker and Deputy Speaker of the Legislative Assembly...."
+      },
+      {
+        "article_id": "article-198",
+        "article_number": "179",
+        "provision": "Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker...."
+      },
+      {
+        "article_id": "article-199",
+        "article_number": "180",
+        "provision": "Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Sp..."
+      },
+      {
+        "article_id": "article-200",
+        "article_number": "181",
+        "provision": "The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is u..."
+      },
+      {
+        "article_id": "article-201",
+        "article_number": "182",
+        "provision": "The Chairman and Deputy Chairman of the Legislative Council...."
+      },
+      {
+        "article_id": "article-202",
+        "article_number": "183",
+        "provision": "Vacation and resignation of, and removal from, the offices of Chairman and Deputy Chairman...."
+      },
+      {
+        "article_id": "article-203",
+        "article_number": "184",
+        "provision": "Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, C..."
+      },
+      {
+        "article_id": "article-204",
+        "article_number": "185",
+        "provision": "The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is..."
+      },
+      {
+        "article_id": "article-205",
+        "article_number": "186",
+        "provision": "Salaries and allowances of the Speaker and Deputy Speaker and the Chairman and Deputy Chairman...."
+      },
+      {
+        "article_id": "article-207",
+        "article_number": "188",
+        "provision": "Oath or affirmation by members...."
+      },
+      {
+        "article_id": "article-208",
+        "article_number": "189",
+        "provision": "Voting in Houses, power of Houses to act notwithstanding vacancies and quorum...."
+      },
+      {
+        "article_id": "article-209",
+        "article_number": "190",
+        "provision": "Vacation of seats...."
+      },
+      {
+        "article_id": "article-210",
+        "article_number": "191",
+        "provision": "Disqualifications for membership...."
+      },
+      {
+        "article_id": "article-211",
+        "article_number": "192",
+        "provision": "Decision on questions as to disqualifications of members...."
+      },
+      {
+        "article_id": "article-212",
+        "article_number": "193",
+        "provision": "Penalty for sitting and voting before making oath or affirmation under article 188 or when not quali..."
+      },
+      {
+        "article_id": "article-214",
+        "article_number": "195",
+        "provision": "Salaries and allowances of members...."
+      },
+      {
+        "article_id": "article-215",
+        "article_number": "196",
+        "provision": "Provisions as to introduction and passing of Bills...."
+      },
+      {
+        "article_id": "article-216",
+        "article_number": "197",
+        "provision": "Restriction on powers of Legislative Council as to Bills other than Money Bills...."
+      },
+      {
+        "article_id": "article-217",
+        "article_number": "198",
+        "provision": "Special procedure in respect of Money Bills...."
+      },
+      {
+        "article_id": "article-218",
+        "article_number": "199",
+        "provision": "Definition of Money Bills...."
+      },
+      {
+        "article_id": "article-219",
+        "article_number": "200",
+        "provision": "Assent to Bills...."
+      },
+      {
+        "article_id": "article-220",
+        "article_number": "201",
+        "provision": "Bills reserved for consideration...."
+      },
+      {
+        "article_id": "article-223",
+        "article_number": "204",
+        "provision": "Appropriation Bills...."
+      },
+      {
+        "article_id": "article-224",
+        "article_number": "205",
+        "provision": "Supplementary, additional or excess grants...."
+      },
+      {
+        "article_id": "article-225",
+        "article_number": "206",
+        "provision": "Votes on account, votes of credit and exceptional grants...."
+      },
+      {
+        "article_id": "article-226",
+        "article_number": "207",
+        "provision": "Special provisions as to financial Bills...."
+      },
+      {
+        "article_id": "article-227",
+        "article_number": "208",
+        "provision": "Rules of procedure...."
+      },
+      {
+        "article_id": "article-247",
+        "article_number": "226A",
+        "provision": "[Omitted]..."
+      },
+      {
+        "article_id": "article-250",
+        "article_number": "228A",
+        "provision": "[Omitted .]..."
+      },
+      {
+        "article_id": "article-259",
+        "article_number": "236",
+        "provision": "Interpretation...."
+      },
+      {
+        "article_id": "article-260",
+        "article_number": "237",
+        "provision": "Application of the provisions of this Chapter to certain class or classes of magistrates...."
+      },
+      {
+        "article_id": "article-261",
+        "article_number": "238",
+        "provision": "[Omitted]..."
+      },
+      {
+        "article_id": "article-270",
+        "article_number": "243",
+        "provision": "Definitions...."
+      },
+      {
+        "article_id": "article-271",
+        "article_number": "243A",
+        "provision": "Gram Sabha...."
+      },
+      {
+        "article_id": "article-272",
+        "article_number": "243B",
+        "provision": "Constitution of Panchayats...."
+      },
+      {
+        "article_id": "article-273",
+        "article_number": "243C",
+        "provision": "Composition of Panchayats..."
+      },
+      {
+        "article_id": "article-274",
+        "article_number": "243D",
+        "provision": "Reservation of seats...."
+      },
+      {
+        "article_id": "article-275",
+        "article_number": "243E",
+        "provision": "Duration of Panchayats, etc...."
+      },
+      {
+        "article_id": "article-276",
+        "article_number": "243F",
+        "provision": "Disqualifications for membership...."
+      },
+      {
+        "article_id": "article-277",
+        "article_number": "243G",
+        "provision": "Powers, authority and responsibilities of Panchayats...."
+      },
+      {
+        "article_id": "article-280",
+        "article_number": "243J",
+        "provision": "Audit of accounts of Panchayats...."
+      },
+      {
+        "article_id": "article-283",
+        "article_number": "243M",
+        "provision": "Part not to apply to certain areas...."
+      },
+      {
+        "article_id": "article-284",
+        "article_number": "243N",
+        "provision": "Continuance of existing laws and Panchayats...."
+      },
+      {
+        "article_id": "article-286",
+        "article_number": "243P",
+        "provision": "Definitions...."
+      },
+      {
+        "article_id": "article-287",
+        "article_number": "243Q",
+        "provision": "Constitution of Municipalities...."
+      },
+      {
+        "article_id": "article-288",
+        "article_number": "243R",
+        "provision": "Composition of Municipalities...."
+      },
+      {
+        "article_id": "article-289",
+        "article_number": "243S",
+        "provision": "Constitution and composition of Wards Committees, etc...."
+      },
+      {
+        "article_id": "article-290",
+        "article_number": "243T",
+        "provision": "Reservation of seats...."
+      },
+      {
+        "article_id": "article-291",
+        "article_number": "243U",
+        "provision": "Duration of Municipalities, etc...."
+      },
+      {
+        "article_id": "article-292",
+        "article_number": "243V",
+        "provision": "Disqualifications for membership...."
+      },
+      {
+        "article_id": "article-293",
+        "article_number": "243W",
+        "provision": "Powers, authority and responsibilities of Municipalities, etc...."
+      },
+      {
+        "article_id": "article-296",
+        "article_number": "243Z",
+        "provision": "Audit of accounts of Municipalities...."
+      },
+      {
+        "article_id": "article-299",
+        "article_number": "243ZC",
+        "provision": "Part not to apply to certain areas...."
+      },
+      {
+        "article_id": "article-300",
+        "article_number": "243ZD",
+        "provision": "Committee for district planning...."
+      },
+      {
+        "article_id": "article-301",
+        "article_number": "243ZE",
+        "provision": "Committee for Metropolitan planning...."
+      },
+      {
+        "article_id": "article-302",
+        "article_number": "243ZF",
+        "provision": "Continuance of existing laws and Municipalities...."
+      },
+      {
+        "article_id": "article-304",
+        "article_number": "243ZH",
+        "provision": "Definitions...."
+      },
+      {
+        "article_id": "article-305",
+        "article_number": "243ZI",
+        "provision": "Incorporation of co-operative societies...."
+      },
+      {
+        "article_id": "article-306",
+        "article_number": "243ZJ",
+        "provision": "Number and term of members of board and its office bearers...."
+      },
+      {
+        "article_id": "article-308",
+        "article_number": "243ZL",
+        "provision": "Supersession and suspension of board and interim management...."
+      },
+      {
+        "article_id": "article-309",
+        "article_number": "243ZM",
+        "provision": "Audit of accounts of co-operative societies...."
+      },
+      {
+        "article_id": "article-310",
+        "article_number": "243ZN",
+        "provision": "Convening of general body meetings...."
+      },
+      {
+        "article_id": "article-312",
+        "article_number": "243ZP",
+        "provision": "Returns...."
+      },
+      {
+        "article_id": "article-313",
+        "article_number": "243ZQ",
+        "provision": "Offences and penalties...."
+      },
+      {
+        "article_id": "article-316",
+        "article_number": "243ZT",
+        "provision": "Continuance of existing laws...."
+      },
+      {
+        "article_id": "article-317",
+        "article_number": "244",
+        "provision": "Administration of Scheduled Areas and Tribal Areas...."
+      },
+      {
+        "article_id": "article-340",
+        "article_number": "264",
+        "provision": "Interpretation...."
+      },
+      {
+        "article_id": "article-343",
+        "article_number": "267",
+        "provision": "Contingency Fund...."
+      },
+      {
+        "article_id": "article-345",
+        "article_number": "268A",
+        "provision": "[Omitted]..."
+      },
+      {
+        "article_id": "article-349",
+        "article_number": "272",
+        "provision": "[Omitted.]..."
+      },
+      {
+        "article_id": "article-350",
+        "article_number": "273",
+        "provision": "Grants in lieu of export duty on jute and jute products...."
+      },
+      {
+        "article_id": "article-354",
+        "article_number": "277",
+        "provision": "Savings...."
+      },
+      {
+        "article_id": "article-355",
+        "article_number": "278",
+        "provision": "[Omitted.]..."
+      },
+      {
+        "article_id": "article-356",
+        "article_number": "279",
+        "provision": "Calculation of net proceeds, etc...."
+      },
+      {
+        "article_id": "article-360",
+        "article_number": "283",
+        "provision": "Custody, etc., of Consolidated Funds, Contingency Funds and moneys credited to the public accounts...."
+      },
+      {
+        "article_id": "article-367",
+        "article_number": "290",
+        "provision": "Adjustment in respect of certain expenses and pensions...."
+      },
+      {
+        "article_id": "article-368",
+        "article_number": "290A",
+        "provision": "Annual payment to certain Devaswom Funds...."
+      },
+      {
+        "article_id": "article-369",
+        "article_number": "291",
+        "provision": "[Omitted .]..."
+      },
+      {
+        "article_id": "article-370",
+        "article_number": "292",
+        "provision": "Borrowing by the Government of India...."
+      },
+      {
+        "article_id": "article-377",
+        "article_number": "299",
+        "provision": "Contracts...."
+      },
+      {
+        "article_id": "article-378",
+        "article_number": "300",
+        "provision": "Suits and proceedings...."
+      },
+      {
+        "article_id": "article-385",
+        "article_number": "306",
+        "provision": "[Omitted .]..."
+      },
+      {
+        "article_id": "article-404",
+        "article_number": "323A",
+        "provision": "Administrative tribunals...."
+      },
+      {
+        "article_id": "article-405",
+        "article_number": "323B",
+        "provision": "Tribunals for other matters...."
+      },
+      {
+        "article_id": "article-412",
+        "article_number": "329A",
+        "provision": "[Omitted .]..."
+      },
+      {
+        "article_id": "article-413",
+        "article_number": "330",
+        "provision": "Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People...."
+      },
+      {
+        "article_id": "article-414",
+        "article_number": "331",
+        "provision": "Representation of the Anglo-Indian community in the House of the People...."
+      },
+      {
+        "article_id": "article-417",
+        "article_number": "334",
+        "provision": "Reservation of seats and special representation to cease after seventy years...."
+      },
+      {
+        "article_id": "article-426",
+        "article_number": "341",
+        "provision": "Scheduled Castes...."
+      },
+      {
+        "article_id": "article-427",
+        "article_number": "342",
+        "provision": "Scheduled Tribes...."
+      },
+      {
+        "article_id": "article-437",
+        "article_number": "350A",
+        "provision": "Facilities for instruction in mother-tongue at primary stage...."
+      },
+      {
+        "article_id": "article-438",
+        "article_number": "350B",
+        "provision": "Special Officer for linguistic minorities...."
+      },
+      {
+        "article_id": "article-446",
+        "article_number": "358",
+        "provision": "Suspension of provisions of article 19 during emergencies...."
+      },
+      {
+        "article_id": "article-448",
+        "article_number": "359A",
+        "provision": "359A. [Omitted.]..."
+      },
+      {
+        "article_id": "article-453",
+        "article_number": "362",
+        "provision": "[Omitted.]..."
+      },
+      {
+        "article_id": "article-456",
+        "article_number": "364",
+        "provision": "Special provisions as to major ports and aerodromes...."
+      },
+      {
+        "article_id": "article-458",
+        "article_number": "366",
+        "provision": "Definitions...."
+      },
+      {
+        "article_id": "article-459",
+        "article_number": "367",
+        "provision": "Interpretation...."
+      },
+      {
+        "article_id": "article-468",
+        "article_number": "371E",
+        "provision": "Establishment of Central University in Andhra Pradesh...."
+      },
+      {
+        "article_id": "article-474",
+        "article_number": "372",
+        "provision": "Continuance in force of existing laws and their adaptation...."
+      },
+      {
+        "article_id": "article-480",
+        "article_number": "377",
+        "provision": "Provisions as to Comptroller and Auditor-General of India...."
+      },
+      {
+        "article_id": "article-482",
+        "article_number": "378A",
+        "provision": "Special provision as to duration of Andhra Pradesh Legislative Assembly...."
+      },
+      {
+        "article_id": "article-483",
+        "article_number": "379",
+        "provision": "[Omitted.]..."
+      },
+      {
+        "article_id": "article-485",
+        "article_number": "393",
+        "provision": "Short title...."
+      },
+      {
+        "article_id": "article-486",
+        "article_number": "394",
+        "provision": "Commencement...."
+      },
+      {
+        "article_id": "article-488",
+        "article_number": "395",
+        "provision": "Repeals...."
+      }
+    ]
+  },
+  {
+    "name": "State Powers",
+    "count": 104,
+    "articles": [
+      {
+        "article_id": "article-2",
+        "article_number": "2",
+        "provision": "Admission or establishment of new States...."
+      },
+      {
+        "article_id": "article-4",
+        "article_number": "3",
+        "provision": "Formation of new States and alteration of areas, boundaries or names of existing States...."
+      },
+      {
+        "article_id": "article-10",
+        "article_number": "8",
+        "provision": "Persons voluntarily acquiring citizenship of a foreign State not to be citizens...."
+      },
+      {
+        "article_id": "article-34",
+        "article_number": "31A",
+        "provision": "Saving of Laws providing for the acquisition of estates, etc...."
+      },
+      {
+        "article_id": "article-45",
+        "article_number": "38",
+        "provision": "State to secure a social order for the promotion of welfare of the people...."
+      },
+      {
+        "article_id": "article-46",
+        "article_number": "39",
+        "provision": "Certain principles of policy to be followed by the State...."
+      },
+      {
+        "article_id": "article-57",
+        "article_number": "47",
+        "provision": "Duty of the State to raise the level of nutrition and the standard of living and to improve public h..."
+      },
+      {
+        "article_id": "article-76",
+        "article_number": "64",
+        "provision": "The Vice-President to be ex officio Chairman of the Council of States...."
+      },
+      {
+        "article_id": "article-92",
+        "article_number": "80",
+        "provision": "Composition of the Council of States...."
+      },
+      {
+        "article_id": "article-101",
+        "article_number": "89",
+        "provision": "The Chairman and Deputy Chairman of the Council of States...."
+      },
+      {
+        "article_id": "article-124",
+        "article_number": "112",
+        "provision": "Annual financial statement...."
+      },
+      {
+        "article_id": "article-169",
+        "article_number": "150",
+        "provision": "Form of accounts of the Union and of the States...."
+      },
+      {
+        "article_id": "article-172",
+        "article_number": "153",
+        "provision": "Governors of States...."
+      },
+      {
+        "article_id": "article-173",
+        "article_number": "154",
+        "provision": "Executive power of State...."
+      },
+      {
+        "article_id": "article-174",
+        "article_number": "155",
+        "provision": "Appointment of Governor...."
+      },
+      {
+        "article_id": "article-175",
+        "article_number": "156",
+        "provision": "Term of office of Governor...."
+      },
+      {
+        "article_id": "article-176",
+        "article_number": "157",
+        "provision": "Qualifications for appointment as Governor...."
+      },
+      {
+        "article_id": "article-177",
+        "article_number": "158",
+        "provision": "Conditions of Governors office...."
+      },
+      {
+        "article_id": "article-178",
+        "article_number": "159",
+        "provision": "Oath or affirmation by the Governor...."
+      },
+      {
+        "article_id": "article-179",
+        "article_number": "160",
+        "provision": "Discharge of the functions of the Governor in certain contingencies...."
+      },
+      {
+        "article_id": "article-180",
+        "article_number": "161",
+        "provision": "Power of Governor to grant pardons, etc., and to suspend, remit or commute sentences in certain case..."
+      },
+      {
+        "article_id": "article-181",
+        "article_number": "162",
+        "provision": "Extent of executive power of State...."
+      },
+      {
+        "article_id": "article-182",
+        "article_number": "163",
+        "provision": "Council of Ministers to aid and advise Governor...."
+      },
+      {
+        "article_id": "article-184",
+        "article_number": "165",
+        "provision": "Advocate-General for the State...."
+      },
+      {
+        "article_id": "article-185",
+        "article_number": "166",
+        "provision": "Conduct of business of the Government of a State...."
+      },
+      {
+        "article_id": "article-186",
+        "article_number": "167",
+        "provision": "Duties of Chief Minister as respects the furnishing of information to Governor, etc...."
+      },
+      {
+        "article_id": "article-187",
+        "article_number": "168",
+        "provision": "Constitution of Legislatures in States...."
+      },
+      {
+        "article_id": "article-188",
+        "article_number": "169",
+        "provision": "Abolition or creation of Legislative Councils in States...."
+      },
+      {
+        "article_id": "article-191",
+        "article_number": "172",
+        "provision": "Duration of State Legislatures...."
+      },
+      {
+        "article_id": "article-192",
+        "article_number": "173",
+        "provision": "Qualification for membership of the State Legislature...."
+      },
+      {
+        "article_id": "article-193",
+        "article_number": "174",
+        "provision": "Sessions of the State Legislature, prorogation and dissolution...."
+      },
+      {
+        "article_id": "article-194",
+        "article_number": "175",
+        "provision": "Right of Governor to address and send messages to the House or Houses...."
+      },
+      {
+        "article_id": "article-195",
+        "article_number": "176",
+        "provision": "Special address by the Governor...."
+      },
+      {
+        "article_id": "article-206",
+        "article_number": "187",
+        "provision": "Secretariat of State Legislature...."
+      },
+      {
+        "article_id": "article-213",
+        "article_number": "194",
+        "provision": "Powers, privileges, etc., of the Houses of Legislatures and of the members and committees thereof...."
+      },
+      {
+        "article_id": "article-221",
+        "article_number": "202",
+        "provision": "Annual financial statement...."
+      },
+      {
+        "article_id": "article-222",
+        "article_number": "203",
+        "provision": "Procedure in Legislature with respect to estimates...."
+      },
+      {
+        "article_id": "article-228",
+        "article_number": "209",
+        "provision": "Regulation by law of procedure in the Legislature of the State in relation to financial business...."
+      },
+      {
+        "article_id": "article-229",
+        "article_number": "210",
+        "provision": "Language to be used in the Legislature...."
+      },
+      {
+        "article_id": "article-230",
+        "article_number": "211",
+        "provision": "Restriction on discussion in the Legislature...."
+      },
+      {
+        "article_id": "article-231",
+        "article_number": "212",
+        "provision": "Courts not to inquire into proceedings of the Legislature...."
+      },
+      {
+        "article_id": "article-232",
+        "article_number": "213",
+        "provision": "Power of Governor to promulgate Ordinances during recess of Legislature...."
+      },
+      {
+        "article_id": "article-233",
+        "article_number": "214",
+        "provision": "High Courts for States...."
+      },
+      {
+        "article_id": "article-253",
+        "article_number": "231",
+        "provision": "Establishment of a common High Court for two or more States...."
+      },
+      {
+        "article_id": "article-263",
+        "article_number": "239A",
+        "provision": "Creation of local Legislatures or Council of Ministers or both for certain Union territories...."
+      },
+      {
+        "article_id": "article-266",
+        "article_number": "239B",
+        "provision": "Power of administrator to promulgate Ordinances during recess of Legislature...."
+      },
+      {
+        "article_id": "article-314",
+        "article_number": "243ZR",
+        "provision": "Application to multi-State co-operative societies...."
+      },
+      {
+        "article_id": "article-318",
+        "article_number": "244A",
+        "provision": "Formation of an autonomous State comprising certain tribal areas in Assam and creation of local Legi..."
+      },
+      {
+        "article_id": "article-319",
+        "article_number": "245",
+        "provision": "Extent of laws made by Parliament and by the Legislatures of States...."
+      },
+      {
+        "article_id": "article-320",
+        "article_number": "246",
+        "provision": "Subject-matter of laws made by Parliament and by the Legislatures of States...."
+      },
+      {
+        "article_id": "article-323",
+        "article_number": "249",
+        "provision": "Power of Parliament to legislate with respect to a matter in the State List in the national interest..."
+      },
+      {
+        "article_id": "article-324",
+        "article_number": "250",
+        "provision": "Power of Parliament to legislate with respect to any matter in the State List if a Proclamation of E..."
+      },
+      {
+        "article_id": "article-325",
+        "article_number": "251",
+        "provision": "Inconsistency between laws made by Parliament under articles 249 and 250 and laws made by the Legisl..."
+      },
+      {
+        "article_id": "article-326",
+        "article_number": "252",
+        "provision": "Power of Parliament to legislate for two or more States by consent and adoption of such legislation ..."
+      },
+      {
+        "article_id": "article-328",
+        "article_number": "254",
+        "provision": "Inconsistency between laws made by Parliament and laws made by the Legislatures of States...."
+      },
+      {
+        "article_id": "article-330",
+        "article_number": "256",
+        "provision": "Obligation of States and the Union...."
+      },
+      {
+        "article_id": "article-331",
+        "article_number": "257",
+        "provision": "Control of the Union over States in certain cases...."
+      },
+      {
+        "article_id": "article-333",
+        "article_number": "258",
+        "provision": "Power of the Union to confer powers, etc., on States in certain cases...."
+      },
+      {
+        "article_id": "article-334",
+        "article_number": "258A",
+        "provision": "Power of the States to entrust functions to the Union...."
+      },
+      {
+        "article_id": "article-338",
+        "article_number": "262",
+        "provision": "Adjudication of disputes relating to waters of inter-State rivers or river valleys...."
+      },
+      {
+        "article_id": "article-339",
+        "article_number": "263",
+        "provision": "Provisions with respect to an inter-State Council...."
+      },
+      {
+        "article_id": "article-342",
+        "article_number": "266",
+        "provision": "Consolidated Funds and public accounts of India and of the States...."
+      },
+      {
+        "article_id": "article-344",
+        "article_number": "268",
+        "provision": "Duties levied by the Union but collected and appropriated by the State...."
+      },
+      {
+        "article_id": "article-346",
+        "article_number": "269",
+        "provision": "Taxes levied and collected by the Union but assigned to the States...."
+      },
+      {
+        "article_id": "article-347",
+        "article_number": "270",
+        "provision": "Taxes levied and distributed between the Union and the States...."
+      },
+      {
+        "article_id": "article-351",
+        "article_number": "274",
+        "provision": "Prior recommendation of President required to Bills affecting taxation in which States are intereste..."
+      },
+      {
+        "article_id": "article-352",
+        "article_number": "275",
+        "provision": "Grants from the Union to certain States...."
+      },
+      {
+        "article_id": "article-359",
+        "article_number": "282",
+        "provision": "Expenditure defrayable by the Union or a State out of its revenues...."
+      },
+      {
+        "article_id": "article-362",
+        "article_number": "285",
+        "provision": "Exemption of property of the Union from State taxation...."
+      },
+      {
+        "article_id": "article-365",
+        "article_number": "288",
+        "provision": "Exemption from taxation by States in respect of water or electricity in certain cases...."
+      },
+      {
+        "article_id": "article-366",
+        "article_number": "289",
+        "provision": "Exemption of property and income of a State from Union taxation...."
+      },
+      {
+        "article_id": "article-371",
+        "article_number": "293",
+        "provision": "Borrowing by States...."
+      },
+      {
+        "article_id": "article-382",
+        "article_number": "303",
+        "provision": "Restrictions on the legislative powers of the Union and of the States with regard to trade and comme..."
+      },
+      {
+        "article_id": "article-383",
+        "article_number": "304",
+        "provision": "Restrictions on trade, commerce and intercourse among States...."
+      },
+      {
+        "article_id": "article-384",
+        "article_number": "305",
+        "provision": "Saving of existing laws and laws providing for State monopolies...."
+      },
+      {
+        "article_id": "article-388",
+        "article_number": "309",
+        "provision": "Recruitment and conditions of service of persons serving the Union or a State...."
+      },
+      {
+        "article_id": "article-389",
+        "article_number": "310",
+        "provision": "Tenure of office of persons serving the Union or a State...."
+      },
+      {
+        "article_id": "article-390",
+        "article_number": "311",
+        "provision": "Dismissal, removal or reduction in rank of persons employed in civil capacities under the Union or a..."
+      },
+      {
+        "article_id": "article-395",
+        "article_number": "315",
+        "provision": "Public Service Commissions for the Union and for the States...."
+      },
+      {
+        "article_id": "article-408",
+        "article_number": "326",
+        "provision": "Elections to the House of the People and to the Legislative Assemblies of States to be on the basis ..."
+      },
+      {
+        "article_id": "article-409",
+        "article_number": "327",
+        "provision": "Power of Parliament to make provision with respect to elections to Legislatures...."
+      },
+      {
+        "article_id": "article-410",
+        "article_number": "328",
+        "provision": "Power of Legislature of a State to make provision with respect to elections to such Legislature...."
+      },
+      {
+        "article_id": "article-415",
+        "article_number": "332",
+        "provision": "Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the ..."
+      },
+      {
+        "article_id": "article-416",
+        "article_number": "333",
+        "provision": "Representation of the Anglo-Indian community in the Legislative Assemblies of the States...."
+      },
+      {
+        "article_id": "article-431",
+        "article_number": "345",
+        "provision": "Official language or languages of a State...."
+      },
+      {
+        "article_id": "article-432",
+        "article_number": "346",
+        "provision": "Official language for communication between one State and another or between a State and the Union...."
+      },
+      {
+        "article_id": "article-433",
+        "article_number": "347",
+        "provision": "Special provision relating to language spoken by a section of the population of a State...."
+      },
+      {
+        "article_id": "article-443",
+        "article_number": "355",
+        "provision": "Duty of the Union to protect States against external aggression and internal disturbance...."
+      },
+      {
+        "article_id": "article-444",
+        "article_number": "356",
+        "provision": "Provisions in case of failure of constitutional machinery in States...."
+      },
+      {
+        "article_id": "article-450",
+        "article_number": "361",
+        "provision": "Protection of President and Governors and Rajpramukhs...."
+      },
+      {
+        "article_id": "article-451",
+        "article_number": "361A",
+        "provision": "Protection of publication of proceedings of Parliament and State Legislatures...."
+      },
+      {
+        "article_id": "article-455",
+        "article_number": "363A",
+        "provision": "Recognition granted to Rulers of Indian States to cease and privy purses to be abolished...."
+      },
+      {
+        "article_id": "article-461",
+        "article_number": "369",
+        "provision": "Temporary power to Parliament to make laws with respect to certain matters in the State List as if t..."
+      },
+      {
+        "article_id": "article-462",
+        "article_number": "370",
+        "provision": "Temporary provisions with respect to the State of Jammu and Kashmir...."
+      },
+      {
+        "article_id": "article-463",
+        "article_number": "370",
+        "provision": "Special provision with respect to the States of Maharashtra and Gujarat...."
+      },
+      {
+        "article_id": "article-464",
+        "article_number": "371A",
+        "provision": "Special provision with respect to the State of Nagaland...."
+      },
+      {
+        "article_id": "article-465",
+        "article_number": "371B",
+        "provision": "Special provision with respect to the State of Assam...."
+      },
+      {
+        "article_id": "article-466",
+        "article_number": "371C",
+        "provision": "Special provision with respect to the State of Manipur...."
+      },
+      {
+        "article_id": "article-467",
+        "article_number": "371D",
+        "provision": "Special provisions with respect to the State of Andhra Pradesh or the State of Telangana..."
+      },
+      {
+        "article_id": "article-469",
+        "article_number": "371F",
+        "provision": "Special provisions with respect to the State of Sikkim...."
+      },
+      {
+        "article_id": "article-470",
+        "article_number": "371G",
+        "provision": "Special provision with respect to the State of Mizoram...."
+      },
+      {
+        "article_id": "article-471",
+        "article_number": "371H",
+        "provision": "Special provision with respect to the State of Arunachal Pradesh...."
+      },
+      {
+        "article_id": "article-472",
+        "article_number": "371I",
+        "provision": "Special provision with respect to the State of Goa...."
+      },
+      {
+        "article_id": "article-473",
+        "article_number": "371J",
+        "provision": "Special provisions with respect to the State of Karnataka...."
+      }
+    ]
+  },
+  {
+    "name": "Judiciary",
+    "count": 63,
+    "articles": [
+      {
+        "article_id": "article-47",
+        "article_number": "39A",
+        "provision": "Equal justice and free legal aid...."
+      },
+      {
+        "article_id": "article-134",
+        "article_number": "122",
+        "provision": "Courts not to inquire into proceedings of Parliament...."
+      },
+      {
+        "article_id": "article-136",
+        "article_number": "124",
+        "provision": "Establishment and constitution of Supreme Court...."
+      },
+      {
+        "article_id": "article-137",
+        "article_number": "124A",
+        "provision": "National Judicial Appointments Commission...."
+      },
+      {
+        "article_id": "article-140",
+        "article_number": "125",
+        "provision": "Salaries, etc., of Judges...."
+      },
+      {
+        "article_id": "article-141",
+        "article_number": "126",
+        "provision": "Appointment of acting Chief Justice...."
+      },
+      {
+        "article_id": "article-142",
+        "article_number": "127",
+        "provision": "Appointment of ad hoc judges...."
+      },
+      {
+        "article_id": "article-143",
+        "article_number": "128",
+        "provision": "Attendance of retired Judges at sittings of the Supreme Court...."
+      },
+      {
+        "article_id": "article-144",
+        "article_number": "129",
+        "provision": "Supreme Court to be a court of record...."
+      },
+      {
+        "article_id": "article-145",
+        "article_number": "130",
+        "provision": "Seat of Supreme Court...."
+      },
+      {
+        "article_id": "article-146",
+        "article_number": "131",
+        "provision": "Original jurisdiction of the Supreme Court...."
+      },
+      {
+        "article_id": "article-148",
+        "article_number": "132",
+        "provision": "Appellate jurisdiction of Supreme Court in appeals from High Courts in certain cases...."
+      },
+      {
+        "article_id": "article-149",
+        "article_number": "133",
+        "provision": "Appellate jurisdiction of Supreme Court in appeals from High Courts in regard to civil matters...."
+      },
+      {
+        "article_id": "article-150",
+        "article_number": "134",
+        "provision": "Appellate jurisdiction of Supreme Court in regard to criminal matters...."
+      },
+      {
+        "article_id": "article-151",
+        "article_number": "134A",
+        "provision": "Certificate for appeal to the Supreme Court...."
+      },
+      {
+        "article_id": "article-152",
+        "article_number": "135",
+        "provision": "Jurisdiction and powers of the Federal Court under existing law to be exercisable by the Supreme Cou..."
+      },
+      {
+        "article_id": "article-153",
+        "article_number": "136",
+        "provision": "Special leave to appeal by the Supreme Court...."
+      },
+      {
+        "article_id": "article-154",
+        "article_number": "137",
+        "provision": "Review of judgments or orders by the Supreme Court...."
+      },
+      {
+        "article_id": "article-155",
+        "article_number": "138",
+        "provision": "Enlargement of the jurisdiction of the Supreme Court...."
+      },
+      {
+        "article_id": "article-156",
+        "article_number": "139",
+        "provision": "Conferment on the Supreme Court of powers to issue certain writs...."
+      },
+      {
+        "article_id": "article-158",
+        "article_number": "140",
+        "provision": "Ancillary powers of Supreme Court...."
+      },
+      {
+        "article_id": "article-159",
+        "article_number": "141",
+        "provision": "Law declared by Supreme Court to be binding on all courts...."
+      },
+      {
+        "article_id": "article-160",
+        "article_number": "142",
+        "provision": "Enforcement of decrees and orders of Supreme Court and orders as to discovery, etc...."
+      },
+      {
+        "article_id": "article-161",
+        "article_number": "143",
+        "provision": "Power of President to consult Supreme Court...."
+      },
+      {
+        "article_id": "article-162",
+        "article_number": "144",
+        "provision": "Civil and judicial authorities to act in aid of the Supreme Court...."
+      },
+      {
+        "article_id": "article-164",
+        "article_number": "145",
+        "provision": "Rules of Court, etc...."
+      },
+      {
+        "article_id": "article-165",
+        "article_number": "146",
+        "provision": "Officers and servants and the expenses of the Supreme Court...."
+      },
+      {
+        "article_id": "article-231",
+        "article_number": "212",
+        "provision": "Courts not to inquire into proceedings of the Legislature...."
+      },
+      {
+        "article_id": "article-233",
+        "article_number": "214",
+        "provision": "High Courts for States...."
+      },
+      {
+        "article_id": "article-234",
+        "article_number": "215",
+        "provision": "High Courts to be courts of record...."
+      },
+      {
+        "article_id": "article-235",
+        "article_number": "216",
+        "provision": "Constitution of High Courts...."
+      },
+      {
+        "article_id": "article-236",
+        "article_number": "217",
+        "provision": "Appointment and conditions of the office of a Judge of a High Court...."
+      },
+      {
+        "article_id": "article-237",
+        "article_number": "218",
+        "provision": "Application of certain provisions relating to Supreme Court to High Courts...."
+      },
+      {
+        "article_id": "article-238",
+        "article_number": "219",
+        "provision": "Oath or affirmation by Judges of High Courts...."
+      },
+      {
+        "article_id": "article-239",
+        "article_number": "220",
+        "provision": "Restriction on practice after being a permanent Judge...."
+      },
+      {
+        "article_id": "article-240",
+        "article_number": "221",
+        "provision": "Salaries, etc., of Judges...."
+      },
+      {
+        "article_id": "article-241",
+        "article_number": "222",
+        "provision": "Transfer of a Judge from one High Court to another...."
+      },
+      {
+        "article_id": "article-242",
+        "article_number": "223",
+        "provision": "Appointment of acting Chief Justice...."
+      },
+      {
+        "article_id": "article-243",
+        "article_number": "224",
+        "provision": "Appointment of additional and acting Judges...."
+      },
+      {
+        "article_id": "article-244",
+        "article_number": "224A",
+        "provision": "Appointment of retired Judges at sittings of High Courts...."
+      },
+      {
+        "article_id": "article-245",
+        "article_number": "225",
+        "provision": "Jurisdiction of existing High Courts...."
+      },
+      {
+        "article_id": "article-246",
+        "article_number": "226",
+        "provision": "Power of High Courts to issue certain writs...."
+      },
+      {
+        "article_id": "article-248",
+        "article_number": "227",
+        "provision": "Power of superintendence over all courts by the High Court...."
+      },
+      {
+        "article_id": "article-249",
+        "article_number": "228",
+        "provision": "Transfer of certain cases to High Court...."
+      },
+      {
+        "article_id": "article-251",
+        "article_number": "229",
+        "provision": "Officers and servants and the expenses of High Courts...."
+      },
+      {
+        "article_id": "article-252",
+        "article_number": "230",
+        "provision": "Extension of jurisdiction of High Courts to Union territories...."
+      },
+      {
+        "article_id": "article-253",
+        "article_number": "231",
+        "provision": "Establishment of a common High Court for two or more States...."
+      },
+      {
+        "article_id": "article-255",
+        "article_number": "233",
+        "provision": "Appointment of district judges...."
+      },
+      {
+        "article_id": "article-256",
+        "article_number": "233",
+        "provision": "Validation of appointments of, and judgments, etc., delivered by, certain district judges...."
+      },
+      {
+        "article_id": "article-257",
+        "article_number": "234",
+        "provision": "Recruitment of persons other than district judges to the judicial service...."
+      },
+      {
+        "article_id": "article-258",
+        "article_number": "235",
+        "provision": "Control over subordinate courts...."
+      },
+      {
+        "article_id": "article-268",
+        "article_number": "241",
+        "provision": "High Courts for Union territories...."
+      },
+      {
+        "article_id": "article-285",
+        "article_number": "243O",
+        "provision": "Bar to interference by courts in electoral matters..."
+      },
+      {
+        "article_id": "article-303",
+        "article_number": "243ZG",
+        "provision": "Bar to interference by courts in electoral matters...."
+      },
+      {
+        "article_id": "article-321",
+        "article_number": "247",
+        "provision": "Power of Parliament to provide for the establishment of certain additional courts...."
+      },
+      {
+        "article_id": "article-337",
+        "article_number": "261",
+        "provision": "Public acts, records and judicial proceedings...."
+      },
+      {
+        "article_id": "article-361",
+        "article_number": "284",
+        "provision": "Custody of suitors deposits and other moneys received by public servants and courts...."
+      },
+      {
+        "article_id": "article-411",
+        "article_number": "329",
+        "provision": "Bar to interference by courts in electoral matters...."
+      },
+      {
+        "article_id": "article-434",
+        "article_number": "348",
+        "provision": "Language to be used in the Supreme Court and in the High Courts and for Acts, Bills, etc...."
+      },
+      {
+        "article_id": "article-454",
+        "article_number": "363",
+        "provision": "Bar to interference by courts in disputes arising out of certain treaties, agreements, etc...."
+      },
+      {
+        "article_id": "article-477",
+        "article_number": "374",
+        "provision": "Provisions as to Judges of the Federal Court and proceedings pending in the Federal Court or before ..."
+      },
+      {
+        "article_id": "article-478",
+        "article_number": "375",
+        "provision": "Courts, authorities and officers to continue to function subject to the provisions of the Constituti..."
+      },
+      {
+        "article_id": "article-479",
+        "article_number": "376",
+        "provision": "Provisions as to Judges of High Courts...."
+      }
+    ]
+  },
+  {
+    "name": "Fundamental Rights",
+    "count": 45,
+    "articles": [
+      {
+        "article_id": "article-7",
+        "article_number": "5",
+        "provision": "Rights of citizenship of certain persons who have migrated to India from Pakistan...."
+      },
+      {
+        "article_id": "article-8",
+        "article_number": "6",
+        "provision": "Rights of citizenship of certain migrants to Pakistan...."
+      },
+      {
+        "article_id": "article-9",
+        "article_number": "7",
+        "provision": "Rights of citizenship of certain persons of Indian origin residing outside India...."
+      },
+      {
+        "article_id": "article-11",
+        "article_number": "9",
+        "provision": "Continuance of the rights of citizenship...."
+      },
+      {
+        "article_id": "article-12",
+        "article_number": "10",
+        "provision": "Parliament to regulate the right of citizenship by law...."
+      },
+      {
+        "article_id": "article-13",
+        "article_number": "12",
+        "provision": "Definition...."
+      },
+      {
+        "article_id": "article-14",
+        "article_number": "13",
+        "provision": "Laws inconsistent with or in derogation of the fundamental rights...."
+      },
+      {
+        "article_id": "article-15",
+        "article_number": "14",
+        "provision": "Equality before law...."
+      },
+      {
+        "article_id": "article-16",
+        "article_number": "15",
+        "provision": "Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth...."
+      },
+      {
+        "article_id": "article-17",
+        "article_number": "16",
+        "provision": "Equality of opportunity in matters of public employment...."
+      },
+      {
+        "article_id": "article-18",
+        "article_number": "17",
+        "provision": "Abolition of Untouchability...."
+      },
+      {
+        "article_id": "article-19",
+        "article_number": "18",
+        "provision": "Abolition of titles...."
+      },
+      {
+        "article_id": "article-20",
+        "article_number": "19",
+        "provision": "Protection of certain rights regarding freedom of speech, etc...."
+      },
+      {
+        "article_id": "article-21",
+        "article_number": "20",
+        "provision": "Protection in respect of conviction for offences...."
+      },
+      {
+        "article_id": "article-22",
+        "article_number": "21",
+        "provision": "Protection of life and personal liberty...."
+      },
+      {
+        "article_id": "article-23",
+        "article_number": "21A",
+        "provision": "Right to education...."
+      },
+      {
+        "article_id": "article-24",
+        "article_number": "22",
+        "provision": "Protection against arrest and detention in certain cases...."
+      },
+      {
+        "article_id": "article-25",
+        "article_number": "23",
+        "provision": "Prohibition of traffic in human beings and forced labour...."
+      },
+      {
+        "article_id": "article-26",
+        "article_number": "24",
+        "provision": "Prohibition of employment of children in factories, etc...."
+      },
+      {
+        "article_id": "article-27",
+        "article_number": "25",
+        "provision": "Freedom of conscience and free profession, practice and propagation of religion...."
+      },
+      {
+        "article_id": "article-28",
+        "article_number": "26",
+        "provision": "Freedom to manage religious affairs...."
+      },
+      {
+        "article_id": "article-29",
+        "article_number": "27",
+        "provision": "Freedom as to payment of taxes for promotion of any particular religion...."
+      },
+      {
+        "article_id": "article-30",
+        "article_number": "28",
+        "provision": "Freedom as to attendance at religious instruction or religious worship in certain educational instit..."
+      },
+      {
+        "article_id": "article-31",
+        "article_number": "29",
+        "provision": "Protection of interests of minorities...."
+      },
+      {
+        "article_id": "article-32",
+        "article_number": "30",
+        "provision": "Right of minorities to establish and administer educational institutions...."
+      },
+      {
+        "article_id": "article-33",
+        "article_number": "31",
+        "provision": "[Omitted.]..."
+      },
+      {
+        "article_id": "article-34",
+        "article_number": "31A",
+        "provision": "Saving of Laws providing for the acquisition of estates, etc...."
+      },
+      {
+        "article_id": "article-35",
+        "article_number": "31B",
+        "provision": "Validation of certain Acts and Regulations...."
+      },
+      {
+        "article_id": "article-36",
+        "article_number": "31C",
+        "provision": "Saving of laws giving effect to certain directive principles...."
+      },
+      {
+        "article_id": "article-37",
+        "article_number": "31D",
+        "provision": "[Omitted.]..."
+      },
+      {
+        "article_id": "article-38",
+        "article_number": "32",
+        "provision": "Remedies for enforcement of rights conferred by this Part...."
+      },
+      {
+        "article_id": "article-39",
+        "article_number": "32A",
+        "provision": "[Omitted.]..."
+      },
+      {
+        "article_id": "article-40",
+        "article_number": "33",
+        "provision": "Power of Parliament to modify the rights conferred by this Part in their application to Forces, etc...."
+      },
+      {
+        "article_id": "article-41",
+        "article_number": "34",
+        "provision": "Restriction on rights conferred by this Part while martial law is in force in any area...."
+      },
+      {
+        "article_id": "article-42",
+        "article_number": "35",
+        "provision": "Legislation to give effect to the provisions of this Part...."
+      },
+      {
+        "article_id": "article-49",
+        "article_number": "41",
+        "provision": "Right to work, to education and to public assistance in certain cases...."
+      },
+      {
+        "article_id": "article-98",
+        "article_number": "86",
+        "provision": "Right of President to address and send messages to Houses...."
+      },
+      {
+        "article_id": "article-100",
+        "article_number": "88",
+        "provision": "Rights of Ministers and Attorney-General as respects Houses...."
+      },
+      {
+        "article_id": "article-194",
+        "article_number": "175",
+        "provision": "Right of Governor to address and send messages to the House or Houses...."
+      },
+      {
+        "article_id": "article-196",
+        "article_number": "177",
+        "provision": "Rights of Ministers and Advocate-General as respects the Houses...."
+      },
+      {
+        "article_id": "article-311",
+        "article_number": "243ZO",
+        "provision": "Right of a member to get information...."
+      },
+      {
+        "article_id": "article-372",
+        "article_number": "294",
+        "provision": "Succession to property, assets, rights, liabilities and obligations in certain cases...."
+      },
+      {
+        "article_id": "article-373",
+        "article_number": "295",
+        "provision": "Succession to property, assets, rights, liabilities and obligations in other cases...."
+      },
+      {
+        "article_id": "article-380",
+        "article_number": "301",
+        "provision": "Freedom of trade, commerce and intercourse...."
+      },
+      {
+        "article_id": "article-447",
+        "article_number": "359",
+        "provision": "Suspension of the enforcement of the rights conferred by Part III during emergencies...."
+      }
+    ]
+  },
+  {
+    "name": "Services",
+    "count": 40,
+    "articles": [
+      {
+        "article_id": "article-137",
+        "article_number": "124A",
+        "provision": "National Judicial Appointments Commission...."
+      },
+      {
+        "article_id": "article-138",
+        "article_number": "124B",
+        "provision": "Functions of Commission...."
+      },
+      {
+        "article_id": "article-141",
+        "article_number": "126",
+        "provision": "Appointment of acting Chief Justice...."
+      },
+      {
+        "article_id": "article-142",
+        "article_number": "127",
+        "provision": "Appointment of ad hoc judges...."
+      },
+      {
+        "article_id": "article-174",
+        "article_number": "155",
+        "provision": "Appointment of Governor...."
+      },
+      {
+        "article_id": "article-176",
+        "article_number": "157",
+        "provision": "Qualifications for appointment as Governor...."
+      },
+      {
+        "article_id": "article-236",
+        "article_number": "217",
+        "provision": "Appointment and conditions of the office of a Judge of a High Court...."
+      },
+      {
+        "article_id": "article-242",
+        "article_number": "223",
+        "provision": "Appointment of acting Chief Justice...."
+      },
+      {
+        "article_id": "article-243",
+        "article_number": "224",
+        "provision": "Appointment of additional and acting Judges...."
+      },
+      {
+        "article_id": "article-244",
+        "article_number": "224A",
+        "provision": "Appointment of retired Judges at sittings of High Courts...."
+      },
+      {
+        "article_id": "article-255",
+        "article_number": "233",
+        "provision": "Appointment of district judges...."
+      },
+      {
+        "article_id": "article-256",
+        "article_number": "233",
+        "provision": "Validation of appointments of, and judgments, etc., delivered by, certain district judges...."
+      },
+      {
+        "article_id": "article-257",
+        "article_number": "234",
+        "provision": "Recruitment of persons other than district judges to the judicial service...."
+      },
+      {
+        "article_id": "article-279",
+        "article_number": "243I",
+        "provision": "Constitution of Finance Commission to review financial position...."
+      },
+      {
+        "article_id": "article-295",
+        "article_number": "243Y",
+        "provision": "Finance Commission...."
+      },
+      {
+        "article_id": "article-357",
+        "article_number": "280",
+        "provision": "Finance Commission...."
+      },
+      {
+        "article_id": "article-358",
+        "article_number": "281",
+        "provision": "Recommendations of the Finance Commission...."
+      },
+      {
+        "article_id": "article-386",
+        "article_number": "307",
+        "provision": "Appointment of authority for carrying out the purposes of articles 301 to 304...."
+      },
+      {
+        "article_id": "article-388",
+        "article_number": "309",
+        "provision": "Recruitment and conditions of service of persons serving the Union or a State...."
+      },
+      {
+        "article_id": "article-391",
+        "article_number": "312",
+        "provision": "All-India services...."
+      },
+      {
+        "article_id": "article-392",
+        "article_number": "312A",
+        "provision": "Power of Parliament to vary or revoke conditions of service of officers of certain services...."
+      },
+      {
+        "article_id": "article-395",
+        "article_number": "315",
+        "provision": "Public Service Commissions for the Union and for the States...."
+      },
+      {
+        "article_id": "article-396",
+        "article_number": "316",
+        "provision": "Appointment and term of office of members...."
+      },
+      {
+        "article_id": "article-397",
+        "article_number": "317",
+        "provision": "Removal and suspension of a member of a Public Service Commission...."
+      },
+      {
+        "article_id": "article-398",
+        "article_number": "318",
+        "provision": "Power to make regulations as to conditions of service of members and staff of the Commission...."
+      },
+      {
+        "article_id": "article-399",
+        "article_number": "319",
+        "provision": "Prohibition as to the holding of offices by members of Commission on ceasing to be such members...."
+      },
+      {
+        "article_id": "article-400",
+        "article_number": "320",
+        "provision": "Functions of Public Service Commissions...."
+      },
+      {
+        "article_id": "article-401",
+        "article_number": "321",
+        "provision": "Power to extend functions of Public Service Commissions...."
+      },
+      {
+        "article_id": "article-402",
+        "article_number": "322",
+        "provision": "Expenses of Public Service Commissions...."
+      },
+      {
+        "article_id": "article-403",
+        "article_number": "323",
+        "provision": "Reports of Public Service Commissions...."
+      },
+      {
+        "article_id": "article-406",
+        "article_number": "324",
+        "provision": "Superintendence, direction and control of elections to be vested in an Election Commission...."
+      },
+      {
+        "article_id": "article-418",
+        "article_number": "335",
+        "provision": "Claims of Scheduled Castes and Scheduled Tribes to services and posts...."
+      },
+      {
+        "article_id": "article-419",
+        "article_number": "336",
+        "provision": "Special provision for Anglo-Indian community in certain services...."
+      },
+      {
+        "article_id": "article-421",
+        "article_number": "338",
+        "provision": "National Commission for Scheduled Castes...."
+      },
+      {
+        "article_id": "article-422",
+        "article_number": "338A",
+        "provision": "National Commission for Scheduled Tribes...."
+      },
+      {
+        "article_id": "article-423",
+        "article_number": "338B",
+        "provision": "National Commission for Backward Classes...."
+      },
+      {
+        "article_id": "article-425",
+        "article_number": "340",
+        "provision": "Appointment of a Commission to investigate the conditions of backward classes...."
+      },
+      {
+        "article_id": "article-430",
+        "article_number": "344",
+        "provision": "Commission and Committee of Parliament on official language...."
+      },
+      {
+        "article_id": "article-452",
+        "article_number": "361B",
+        "provision": "Disqualification for appointment on remunerative political post...."
+      },
+      {
+        "article_id": "article-481",
+        "article_number": "378",
+        "provision": "Provisions as to Public Service Commissions...."
+      }
+    ]
+  },
+  {
+    "name": "Directive Principles",
+    "count": 23,
+    "articles": [
+      {
+        "article_id": "article-36",
+        "article_number": "31C",
+        "provision": "Saving of laws giving effect to certain directive principles...."
+      },
+      {
+        "article_id": "article-43",
+        "article_number": "36",
+        "provision": "Definition...."
+      },
+      {
+        "article_id": "article-44",
+        "article_number": "37",
+        "provision": "Application of the principles contained in this Part...."
+      },
+      {
+        "article_id": "article-45",
+        "article_number": "38",
+        "provision": "State to secure a social order for the promotion of welfare of the people...."
+      },
+      {
+        "article_id": "article-46",
+        "article_number": "39",
+        "provision": "Certain principles of policy to be followed by the State...."
+      },
+      {
+        "article_id": "article-47",
+        "article_number": "39A",
+        "provision": "Equal justice and free legal aid...."
+      },
+      {
+        "article_id": "article-48",
+        "article_number": "40",
+        "provision": "Organisation of village panchayats...."
+      },
+      {
+        "article_id": "article-49",
+        "article_number": "41",
+        "provision": "Right to work, to education and to public assistance in certain cases...."
+      },
+      {
+        "article_id": "article-50",
+        "article_number": "42",
+        "provision": "Provision for just and humane conditions of work and maternity relief...."
+      },
+      {
+        "article_id": "article-51",
+        "article_number": "43",
+        "provision": "Living wage, etc., for workers...."
+      },
+      {
+        "article_id": "article-52",
+        "article_number": "43A",
+        "provision": "Participation of workers in management of industries...."
+      },
+      {
+        "article_id": "article-53",
+        "article_number": "43B",
+        "provision": "Promotion of co-operative societies...."
+      },
+      {
+        "article_id": "article-54",
+        "article_number": "44",
+        "provision": "Uniform civil code for the citizens...."
+      },
+      {
+        "article_id": "article-55",
+        "article_number": "45",
+        "provision": "Provision for early childhood care and education to children below the age of six years...."
+      },
+      {
+        "article_id": "article-56",
+        "article_number": "46",
+        "provision": "Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weak..."
+      },
+      {
+        "article_id": "article-57",
+        "article_number": "47",
+        "provision": "Duty of the State to raise the level of nutrition and the standard of living and to improve public h..."
+      },
+      {
+        "article_id": "article-58",
+        "article_number": "48",
+        "provision": "Organisation of agriculture and animal husbandry...."
+      },
+      {
+        "article_id": "article-59",
+        "article_number": "48A",
+        "provision": "Protection and improvement of environment and safeguarding of forests and wild life...."
+      },
+      {
+        "article_id": "article-60",
+        "article_number": "49",
+        "provision": "Protection of monuments and places and objects of national importance...."
+      },
+      {
+        "article_id": "article-61",
+        "article_number": "50",
+        "provision": "Separation of judiciary from executive...."
+      },
+      {
+        "article_id": "article-62",
+        "article_number": "51",
+        "provision": "Promotion of international peace and security...."
+      },
+      {
+        "article_id": "article-424",
+        "article_number": "339",
+        "provision": "Control of the Union over the administration of Scheduled Areas and the welfare of Scheduled Tribes...."
+      },
+      {
+        "article_id": "article-439",
+        "article_number": "351",
+        "provision": "Directive for development of the Hindi language...."
+      }
+    ]
+  },
+  {
+    "name": "Finance",
+    "count": 20,
+    "articles": [
+      {
+        "article_id": "article-29",
+        "article_number": "27",
+        "provision": "Freedom as to payment of taxes for promotion of any particular religion...."
+      },
+      {
+        "article_id": "article-278",
+        "article_number": "243H",
+        "provision": "Powers to impose taxes by, and Funds of, the Panchayats...."
+      },
+      {
+        "article_id": "article-279",
+        "article_number": "243I",
+        "provision": "Constitution of Finance Commission to review financial position...."
+      },
+      {
+        "article_id": "article-294",
+        "article_number": "243X",
+        "provision": "Power to impose taxes by, and Funds of, the Municipalities...."
+      },
+      {
+        "article_id": "article-295",
+        "article_number": "243Y",
+        "provision": "Finance Commission...."
+      },
+      {
+        "article_id": "article-341",
+        "article_number": "265",
+        "provision": "Taxes not to be imposed save by authority of law...."
+      },
+      {
+        "article_id": "article-346",
+        "article_number": "269",
+        "provision": "Taxes levied and collected by the Union but assigned to the States...."
+      },
+      {
+        "article_id": "article-347",
+        "article_number": "270",
+        "provision": "Taxes levied and distributed between the Union and the States...."
+      },
+      {
+        "article_id": "article-348",
+        "article_number": "271",
+        "provision": "Surcharge on certain duties and taxes for purposes of the Union...."
+      },
+      {
+        "article_id": "article-351",
+        "article_number": "274",
+        "provision": "Prior recommendation of President required to Bills affecting taxation in which States are intereste..."
+      },
+      {
+        "article_id": "article-353",
+        "article_number": "276",
+        "provision": "Taxes on professions, trades, callings and employments...."
+      },
+      {
+        "article_id": "article-357",
+        "article_number": "280",
+        "provision": "Finance Commission...."
+      },
+      {
+        "article_id": "article-358",
+        "article_number": "281",
+        "provision": "Recommendations of the Finance Commission...."
+      },
+      {
+        "article_id": "article-359",
+        "article_number": "282",
+        "provision": "Expenditure defrayable by the Union or a State out of its revenues...."
+      },
+      {
+        "article_id": "article-362",
+        "article_number": "285",
+        "provision": "Exemption of property of the Union from State taxation...."
+      },
+      {
+        "article_id": "article-363",
+        "article_number": "286",
+        "provision": "Restrictions as to imposition of tax on the sale or purchase of goods...."
+      },
+      {
+        "article_id": "article-364",
+        "article_number": "287",
+        "provision": "Exemption from taxes on electricity...."
+      },
+      {
+        "article_id": "article-365",
+        "article_number": "288",
+        "provision": "Exemption from taxation by States in respect of water or electricity in certain cases...."
+      },
+      {
+        "article_id": "article-366",
+        "article_number": "289",
+        "provision": "Exemption of property and income of a State from Union taxation...."
+      },
+      {
+        "article_id": "article-442",
+        "article_number": "354",
+        "provision": "Application of provisions relating to distribution of revenues while a Proclamation of Emergency is ..."
+      }
+    ]
+  },
+  {
+    "name": "Elections",
+    "count": 19,
+    "articles": [
+      {
+        "article_id": "article-66",
+        "article_number": "54",
+        "provision": "Election of President...."
+      },
+      {
+        "article_id": "article-67",
+        "article_number": "55",
+        "provision": "Manner of election of President...."
+      },
+      {
+        "article_id": "article-69",
+        "article_number": "57",
+        "provision": "Eligibility for re-election...."
+      },
+      {
+        "article_id": "article-70",
+        "article_number": "58",
+        "provision": "Qualifications for election as President...."
+      },
+      {
+        "article_id": "article-74",
+        "article_number": "62",
+        "provision": "Time of holding election to fill vacancy in the office of President and the term of office of person..."
+      },
+      {
+        "article_id": "article-78",
+        "article_number": "66",
+        "provision": "Election of Vice-President...."
+      },
+      {
+        "article_id": "article-80",
+        "article_number": "68",
+        "provision": "Time of holding election to fill vacancy in the office of Vice-President and the term of office of p..."
+      },
+      {
+        "article_id": "article-83",
+        "article_number": "71",
+        "provision": "Matters relating to, or connected with, the election of a President or Vice-President...."
+      },
+      {
+        "article_id": "article-281",
+        "article_number": "243K",
+        "provision": "Elections to the Panchayats...."
+      },
+      {
+        "article_id": "article-285",
+        "article_number": "243O",
+        "provision": "Bar to interference by courts in electoral matters..."
+      },
+      {
+        "article_id": "article-297",
+        "article_number": "243ZA",
+        "provision": "Elections to the Municipalities...."
+      },
+      {
+        "article_id": "article-303",
+        "article_number": "243ZG",
+        "provision": "Bar to interference by courts in electoral matters...."
+      },
+      {
+        "article_id": "article-307",
+        "article_number": "243ZK",
+        "provision": "Election of members of board...."
+      },
+      {
+        "article_id": "article-406",
+        "article_number": "324",
+        "provision": "Superintendence, direction and control of elections to be vested in an Election Commission...."
+      },
+      {
+        "article_id": "article-407",
+        "article_number": "325",
+        "provision": "No person to be ineligible for inclusion in, or to claim to be included in a special, electoral roll..."
+      },
+      {
+        "article_id": "article-408",
+        "article_number": "326",
+        "provision": "Elections to the House of the People and to the Legislative Assemblies of States to be on the basis ..."
+      },
+      {
+        "article_id": "article-409",
+        "article_number": "327",
+        "provision": "Power of Parliament to make provision with respect to elections to Legislatures...."
+      },
+      {
+        "article_id": "article-410",
+        "article_number": "328",
+        "provision": "Power of Legislature of a State to make provision with respect to elections to such Legislature...."
+      },
+      {
+        "article_id": "article-411",
+        "article_number": "329",
+        "provision": "Bar to interference by courts in electoral matters...."
+      }
+    ]
+  },
+  {
+    "name": "Language",
+    "count": 12,
+    "articles": [
+      {
+        "article_id": "article-132",
+        "article_number": "120",
+        "provision": "Language to be used in Parliament...."
+      },
+      {
+        "article_id": "article-229",
+        "article_number": "210",
+        "provision": "Language to be used in the Legislature...."
+      },
+      {
+        "article_id": "article-429",
+        "article_number": "343",
+        "provision": "Official language of the Union...."
+      },
+      {
+        "article_id": "article-430",
+        "article_number": "344",
+        "provision": "Commission and Committee of Parliament on official language...."
+      },
+      {
+        "article_id": "article-431",
+        "article_number": "345",
+        "provision": "Official language or languages of a State...."
+      },
+      {
+        "article_id": "article-432",
+        "article_number": "346",
+        "provision": "Official language for communication between one State and another or between a State and the Union...."
+      },
+      {
+        "article_id": "article-433",
+        "article_number": "347",
+        "provision": "Special provision relating to language spoken by a section of the population of a State...."
+      },
+      {
+        "article_id": "article-434",
+        "article_number": "348",
+        "provision": "Language to be used in the Supreme Court and in the High Courts and for Acts, Bills, etc...."
+      },
+      {
+        "article_id": "article-435",
+        "article_number": "349",
+        "provision": "Special procedure for enactment of certain laws relating to language...."
+      },
+      {
+        "article_id": "article-436",
+        "article_number": "350",
+        "provision": "Language to be used in representations for redress of grievances...."
+      },
+      {
+        "article_id": "article-439",
+        "article_number": "351",
+        "provision": "Directive for development of the Hindi language...."
+      },
+      {
+        "article_id": "article-487",
+        "article_number": "394A",
+        "provision": "Authoritative text in the Hindi language...."
+      }
+    ]
+  },
+  {
+    "name": "Citizenship",
+    "count": 8,
+    "articles": [
+      {
+        "article_id": "article-6",
+        "article_number": "4",
+        "provision": "Citizenship at the commencement of the Constitution...."
+      },
+      {
+        "article_id": "article-7",
+        "article_number": "5",
+        "provision": "Rights of citizenship of certain persons who have migrated to India from Pakistan...."
+      },
+      {
+        "article_id": "article-8",
+        "article_number": "6",
+        "provision": "Rights of citizenship of certain migrants to Pakistan...."
+      },
+      {
+        "article_id": "article-9",
+        "article_number": "7",
+        "provision": "Rights of citizenship of certain persons of Indian origin residing outside India...."
+      },
+      {
+        "article_id": "article-10",
+        "article_number": "8",
+        "provision": "Persons voluntarily acquiring citizenship of a foreign State not to be citizens...."
+      },
+      {
+        "article_id": "article-11",
+        "article_number": "9",
+        "provision": "Continuance of the rights of citizenship...."
+      },
+      {
+        "article_id": "article-12",
+        "article_number": "10",
+        "provision": "Parliament to regulate the right of citizenship by law...."
+      },
+      {
+        "article_id": "article-54",
+        "article_number": "44",
+        "provision": "Uniform civil code for the citizens...."
+      }
+    ]
+  },
+  {
+    "name": "Education",
+    "count": 8,
+    "articles": [
+      {
+        "article_id": "article-23",
+        "article_number": "21A",
+        "provision": "Right to education...."
+      },
+      {
+        "article_id": "article-30",
+        "article_number": "28",
+        "provision": "Freedom as to attendance at religious instruction or religious worship in certain educational instit..."
+      },
+      {
+        "article_id": "article-32",
+        "article_number": "30",
+        "provision": "Right of minorities to establish and administer educational institutions...."
+      },
+      {
+        "article_id": "article-49",
+        "article_number": "41",
+        "provision": "Right to work, to education and to public assistance in certain cases...."
+      },
+      {
+        "article_id": "article-55",
+        "article_number": "45",
+        "provision": "Provision for early childhood care and education to children below the age of six years...."
+      },
+      {
+        "article_id": "article-56",
+        "article_number": "46",
+        "provision": "Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weak..."
+      },
+      {
+        "article_id": "article-420",
+        "article_number": "337",
+        "provision": "Special provision with respect to educational grants for the benefit of Anglo-Indian Community...."
+      },
+      {
+        "article_id": "article-428",
+        "article_number": "342A",
+        "provision": "Socially and educationally backward classes...."
+      }
+    ]
+  },
+  {
+    "name": "Property",
+    "count": 7,
+    "articles": [
+      {
+        "article_id": "article-34",
+        "article_number": "31A",
+        "provision": "Saving of Laws providing for the acquisition of estates, etc...."
+      },
+      {
+        "article_id": "article-362",
+        "article_number": "285",
+        "provision": "Exemption of property of the Union from State taxation...."
+      },
+      {
+        "article_id": "article-366",
+        "article_number": "289",
+        "provision": "Exemption of property and income of a State from Union taxation...."
+      },
+      {
+        "article_id": "article-372",
+        "article_number": "294",
+        "provision": "Succession to property, assets, rights, liabilities and obligations in certain cases...."
+      },
+      {
+        "article_id": "article-373",
+        "article_number": "295",
+        "provision": "Succession to property, assets, rights, liabilities and obligations in other cases...."
+      },
+      {
+        "article_id": "article-374",
+        "article_number": "296",
+        "provision": "Property accruing by escheat or laps or as bona vacantia...."
+      },
+      {
+        "article_id": "article-379",
+        "article_number": "300A",
+        "provision": "Persons not to be deprived of property save by authority of law...."
+      }
+    ]
+  },
+  {
+    "name": "Emergency",
+    "count": 6,
+    "articles": [
+      {
+        "article_id": "article-324",
+        "article_number": "250",
+        "provision": "Power of Parliament to legislate with respect to any matter in the State List if a Proclamation of E..."
+      },
+      {
+        "article_id": "article-440",
+        "article_number": "352",
+        "provision": "Proclamation of Emergency...."
+      },
+      {
+        "article_id": "article-441",
+        "article_number": "353",
+        "provision": "Effect of Proclamation of Emergency...."
+      },
+      {
+        "article_id": "article-442",
+        "article_number": "354",
+        "provision": "Application of provisions relating to distribution of revenues while a Proclamation of Emergency is ..."
+      },
+      {
+        "article_id": "article-445",
+        "article_number": "357",
+        "provision": "Exercise of legislative powers under Proclamation issued under article 356...."
+      },
+      {
+        "article_id": "article-449",
+        "article_number": "360",
+        "provision": "Provisions as to financial emergency...."
+      }
+    ]
+  },
+  {
+    "name": "Trade",
+    "count": 6,
+    "articles": [
+      {
+        "article_id": "article-353",
+        "article_number": "276",
+        "provision": "Taxes on professions, trades, callings and employments...."
+      },
+      {
+        "article_id": "article-376",
+        "article_number": "298",
+        "provision": "Power to carry on trade, etc...."
+      },
+      {
+        "article_id": "article-380",
+        "article_number": "301",
+        "provision": "Freedom of trade, commerce and intercourse...."
+      },
+      {
+        "article_id": "article-381",
+        "article_number": "302",
+        "provision": "Power of Parliament to impose restrictions on trade, commerce and intercourse...."
+      },
+      {
+        "article_id": "article-382",
+        "article_number": "303",
+        "provision": "Restrictions on the legislative powers of the Union and of the States with regard to trade and comme..."
+      },
+      {
+        "article_id": "article-383",
+        "article_number": "304",
+        "provision": "Restrictions on trade, commerce and intercourse among States...."
+      }
+    ]
+  },
+  {
+    "name": "Amendment",
+    "count": 3,
+    "articles": [
+      {
+        "article_id": "article-5",
+        "article_number": "4",
+        "provision": "Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules ..."
+      },
+      {
+        "article_id": "article-40",
+        "article_number": "33",
+        "provision": "Power of Parliament to modify the rights conferred by this Part in their application to Forces, etc...."
+      },
+      {
+        "article_id": "article-254",
+        "article_number": "232",
+        "provision": "[Omitted .] (7th Amendment)..."
+      }
+    ]
+  }
+]
