@@ -2,7 +2,7 @@
 
 import { Article, Part, Category, SearchIndex, ConstitutionData } from '@/types';
 
-export const BASE_PATH = process.env.NODE_ENV === 'production' ? '/Constitutional-Nexus' : '';
+export const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || '';
 
 export class DataService {
   private static cache: Map<string, any> = new Map();

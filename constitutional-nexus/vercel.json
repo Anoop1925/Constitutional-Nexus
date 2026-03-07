@@ -1,0 +1,6 @@
+{
+  "name": "constitutional-nexus",
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "installCommand": "npm ci"
+}

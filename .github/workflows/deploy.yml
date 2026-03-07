@@ -34,6 +34,8 @@ jobs:
       - name: Build static export
         working-directory: constitutional-nexus
         run: npm run build
+        env:
+          NEXT_PUBLIC_BASE_PATH: /Constitutional-Nexus
 
       - name: Add .nojekyll
         run: touch constitutional-nexus/out/.nojekyll
